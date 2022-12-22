@@ -8,7 +8,8 @@
       "url": "https://github.com/b2renger/Introduction_Arduino",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Arduino/master/assets/set_neopixels_rgb.gif",
       "last_update": "26/05/22",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Introduction Arduino",
@@ -18,7 +19,8 @@
       "url": "https://github.com/b2renger/Introduction_Arduino/tree/english",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Arduino/master/assets/set_neopixels_rgb.gif",
       "last_update": "26/05/22",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "en"
     },
     {
       "title": "Arduino from the ground up",
@@ -28,7 +30,8 @@
       "url": "https://ateliernum.notion.site/Arduino-from-the-ground-up-bcf1a01b24e74afaa1aea52defcec1f6",
       "thumbnail": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2b6eb06e-4540-4a28-bc2c-363c7e1af9dc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T090932Z&X-Amz-Expires=86400&X-Amz-Signature=6b4cbc1424ac26ec65727200d8a27049e77b4f4519068b61d62794bdf00faaeb&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject",
       "last_update": "09/11/22",
-      "author": "Valentin Dupas"
+      "author": "Valentin Dupas",
+      "language": "en"
     },
     {
       "title": "Photogramétrie avec Reality Capture",
@@ -38,7 +41,8 @@
       "url": "https://github.com/LucieMrc/Photogrammetrie",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Photogrammetrie/main/images/capture6.png?token=GHSAT0AAAAAAB2ADYR5MVRGCBOM5O7H3HNIY2OLLQQ",
       "last_update": "16/10/22",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "fr"
     },
     {
       "title": "Pixel Mapping",
@@ -56,7 +60,8 @@
       "url": "https://github.com/LucieMrc/Madmapper_PixelMapping",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Madmapper_PixelMapping/main/images/gif1.gif",
       "last_update": "16/10/22",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "fr"
     },
     {
       "title": "Utiliser la brodeuse numérique",
@@ -66,7 +71,8 @@
       "url": "https://github.com/LucieMrc/BrodeuseNum_2spi",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
       "last_update": "24/05/22",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "fr"
     },
     {
       "title": "Use the embroidery machine",
@@ -76,7 +82,8 @@
       "url": "https://github.com/LucieMrc/EmbroideryMachine_sp33d",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
       "last_update": "24/05/22",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "en"
     },
     {
       "title": "Introduction à la Réalité Augmentée",
@@ -86,7 +93,8 @@
       "url": "https://github.com/b2renger/Introduction_A-frame#introduction_a-frame",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_A-frame/main/assets/snowAR.gif",
       "last_update": "23/05/22",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "en"
     },
     {
       "title": "Silhouette cameo découpe Vinyle",
@@ -96,7 +104,8 @@
       "url": "https://github.com/LucieMrc/Tuto_Silhouette_Cameo",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Tuto_Silhouette_Cameo/main/images/screen5.png",
       "last_update": "23/05/22",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "fr"
     },
     {
       "title": "Silhouette Cameo cutter",
@@ -106,7 +115,8 @@
       "url": "https://github.com/LucieMrc/EmbroideryMachine_sp33d",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Tuto_Silhouette_Cameo/main/images/screen5.png",
       "last_update": "23/05/22",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "en"
     },
     {
       "title": "How to use the sound studio",
@@ -116,7 +126,8 @@
       "url": "https://github.com/LucieMrc/SoundRecording_sp33d",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SoundRecording_sp33d/762d88fbcefb19f3b558cc856c927e615cb0eb7d/images/img3.jpg  ",
       "last_update": "23/05/22",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "en"
     },
     {
       "title": "Enregistrer dans le studio son",
@@ -126,7 +137,8 @@
       "url": "https://github.com/LucieMrc/Prise2son_2spi",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SoundRecording_sp33d/762d88fbcefb19f3b558cc856c927e615cb0eb7d/images/img3.jpg  ",
       "last_update": "23/05/22",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "fr"
     },
     {
       "title": "Video Mapping et Madmapper",
@@ -136,7 +148,8 @@
       "url": "https://github.com/LucieMrc/Madmapper_2spi  ",
       "thumbnail": "https://github.com/LucieMrc/Madmapper_2spi/raw/main/images/screen1.png",
       "last_update": "22/12/21",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "fr"
     },
     {
       "title": "Touch Designer et Kantan Mapper",
@@ -146,7 +159,8 @@
       "url": "https://github.com/LucieMrc/TD_KantanMapper",
       "thumbnail": "https://github.com/LucieMrc/TD_KantanMapper/raw/main/images/screen10.png",
       "last_update": "22/12/21",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "en"
     },
     {
       "title": "Arduino et animation leds",
@@ -156,7 +170,8 @@
       "url": "https://github.com/b2renger/arduino_led_animation",
       "thumbnail": "https://github.com/b2renger/arduino_led_animation/raw/main/assets/exemple_05_noise.gif",
       "last_update": "22/12/21",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Augmenta et Touch Designer",
@@ -166,7 +181,8 @@
       "url": "https://github.com/LucieMrc/TD_Augmenta",
       "thumbnail": "https://raw.githubusercontent.com/LucieMrc/TD_Augmenta/ef925a80306f750ed75f5e74beecfce7a732263e/images/screen5.png",
       "last_update": "22/12/21",
-      "author": "Lucie Mrc"
+      "author": "Lucie Mrc",
+      "language": "en"
     },
     {
       "title": "Introduction Photon",
@@ -176,7 +192,8 @@
       "url": "https://github.com/emoc/photon_introduction",
       "thumbnail": "https://raw.githubusercontent.com/emoc/photon_introduction/master/assets/anims/photon_listening_mode.gif",
       "last_update": "29/04/21",
-      "author": "Pierre Commenge"
+      "author": "Pierre Commenge",
+      "language": "fr"
     },
     {
       "title": "Introduction Unity",
@@ -186,7 +203,8 @@
       "url": "https://github.com/MartinCailleau/SoundTower",
       "thumbnail": "https://raw.githubusercontent.com/MartinCailleau/SoundTower/master/img/image12.gif",
       "last_update": "14/09/20",
-      "author": "Martin Cailleau"
+      "author": "Martin Cailleau",
+      "language": "fr"
     },
     {
       "title": "Introduction Touch Designer",
@@ -196,7 +214,8 @@
       "url": "https://github.com/benjarier/Introduction_TouchDesigner",
       "thumbnail": "https://raw.githubusercontent.com/benjarier/Introduction_TouchDesigner/master/assets/TD1.gif",
       "last_update": "18/05/20",
-      "author": "Benjamin Carrier"
+      "author": "Benjamin Carrier",
+      "language": "fr"
     },
     {
       "title": "Introduction à p5js",
@@ -206,7 +225,8 @@
       "url": "https://github.com/b2renger/Introduction_p5js",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_p5js/master/assets/01_dessiner_05.png",
       "last_update": "01/09/19",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Introduction à Pure-Data",
@@ -216,7 +236,8 @@
       "url": "https://github.com/b2renger/Introduction_Pure_Data",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Pure_Data/master/assets/image-02.png",
       "last_update": "18/03/20",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Introduction à Processing",
@@ -233,7 +254,8 @@
       "url": "https://github.com/b2renger/Introduction_Processing",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Processing/master/assets/020_pixels.png",
       "last_update": "01/05/17",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Transformation d'images",
@@ -252,7 +274,8 @@
       "url": "https://github.com/b2renger/p5js_image_alteration",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_image_alteration/master/result_images/example_09_triangulation_anim.gif",
       "last_update": "16/12/19",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Generative Typography",
@@ -270,7 +293,8 @@
       "url": "https://github.com/b2renger/p5js_typo",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_typo/master/assets/p5js_typo.gif",
       "last_update": "23/11/16",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "en"
     },
     {
       "title": "Motifs génératifs",
@@ -288,7 +312,8 @@
       "url": "https://github.com/b2renger/p5js-designing-interactive-patterns",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js-designing-interactive-patterns/master/images/noise-asymetric.gif",
       "last_update": "19/05/19",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Patatap",
@@ -306,7 +331,8 @@
       "url": "https://github.com/b2renger/p5js_codecreatif",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_codecreatif/master/gifs/patatap-final.gif",
       "last_update": "08/04/20",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Gestes de l'ennui",
@@ -324,7 +350,8 @@
       "url": "https://github.com/b2renger/p5js_gestes_de_l_ennui",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_gestes_de_l_ennui/master/assets/realisation_finale_black.png",
       "last_update": "16/12/19",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Workshop Processing community day - Processing",
@@ -340,7 +367,8 @@
       "url": "https://github.com/AtelierNum/workshop_processing_PCD2019",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_processing_PCD2019/master/assets/rosace2.png",
       "last_update": "12/02/19",
-      "author": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel"
+      "author": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel",
+      "language": "fr"
     },
     {
       "title": "Workshop Processing community day - P5js",
@@ -357,7 +385,8 @@
       "url": "https://github.com/AtelierNum/workshop_p5js_PCD2019",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_p5js_PCD2019/master/Birds.png",
       "last_update": "13/02/19",
-      "author": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel"
+      "author": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel",
+      "language": "fr"
     },
     {
       "title": "Sound Design references et pratiques",
@@ -367,7 +396,8 @@
       "url": "https://github.com/b2renger/SoundDesign-references-practices",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/SoundDesign-references-practices/master/documents/Designingsound.org_studio-disney.jpg",
       "last_update": "26/02/18",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "fr"
     },
     {
       "title": "Game From Scratch",
@@ -377,7 +407,8 @@
       "url": "https://github.com/b2renger/processing_physics_game_workshop",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/processing_physics_game_workshop/master/physics_game_workshop.gif",
       "last_update": "09/11/18",
-      "author": "b2renger et Martin Cailleau"
+      "author": "b2renger et Martin Cailleau",
+      "language": "fr"
     },
     {
       "title": "Ressource for Entomologik workshop ",
@@ -394,7 +425,8 @@
       "url": "https://github.com/b2renger/workshop_entomologik_processing-arduino",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/workshop_entomologik_processing-arduino/master/images/flower1.png",
       "last_update": "21/02/19",
-      "author": "b2renger"
+      "author": "b2renger",
+      "language": "en"
     }
   ],
   "projects": [
@@ -406,7 +438,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_2021/main/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_2021/main/FeelTheUniverse/output.gif",
       "last_update": "26/01/21",
-      "author": "étudiants en design d'interaction"
+      "author": "étudiants en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Workshop Game VR 2020",
@@ -416,7 +449,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_game_VR_2020/main/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_game_VR_2020/main/Rendu_Groupe2_Screen_VideoNoire.png",
       "last_update": "14/01/21",
-      "author": "étudiants en game expérience design"
+      "author": "étudiants en game expérience design",
+      "language": "fr"
     },
     {
       "title": "Workshop Lumière 2020",
@@ -426,7 +460,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_diorama_lumiere_2020/main/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_diorama_lumiere_2020/main/01_LaForetMysterieuse_Groupe01/Photos_Videos/05.jpg",
       "last_update": "14/01/21",
-      "author": "étudiants en espaces scénographiéss"
+      "author": "étudiants en espaces scénographiéss",
+      "language": "fr"
     },
     {
       "title": "Workshop Mapping Cinétique 2020",
@@ -436,7 +471,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_mapping_cinetique_2020/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_mapping_cinetique_2020/main/Nebuleuse/teaser.gif",
       "last_update": "23/12/20",
-      "author": "étudiants en motion design"
+      "author": "étudiants en motion design",
+      "language": "fr"
     },
     {
       "title": "Projet motifs d'expression 2020",
@@ -446,7 +482,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_motifs_d_expression_2020/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_motifs_d_expression_2020/main/Anaelle_et_Pierre/gif.gif",
       "last_update": "23/12/20",
-      "author": "étudiants en motion design"
+      "author": "étudiants en motion design",
+      "language": "fr"
     },
     {
       "title": "Workshop game from scratch 2020",
@@ -456,7 +493,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2020/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2020/master/Amelie_Conoir/gif.gif",
       "last_update": "22/12/20",
-      "author": "étudiants en game design"
+      "author": "étudiants en game design",
+      "language": "fr"
     },
     {
       "title": "Projet Yearbook 2020",
@@ -466,7 +504,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_Yearbook_2020/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_Yearbook_2020/master/assets/rendus/Myriam_portrait.png",
       "last_update": "09/06/20",
-      "author": "étudiants en design graphique"
+      "author": "étudiants en design graphique",
+      "language": "fr"
     },
     {
       "title": "Workshop Intallations Interactives 2020",
@@ -476,7 +515,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_installation_interactive_2020/master/README.md",
       "thumbnail": "https://github.com/AtelierNum/workshop_installation_interactive_2020/raw/master/Scratch_massive/scratch_massive.gif",
       "last_update": "18/05/20",
-      "author": "étudiants en design d'interaction"
+      "author": "étudiants en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Workshop ALT-CTRL 2019-2020",
@@ -486,7 +526,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1920/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1920/master/Shaolin_Dragon/gif.gif",
       "last_update": "30/04/20",
-      "author": "étudiants game design et en design d'interaction"
+      "author": "étudiants game design et en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Projet jeux électroniques 2019-2020",
@@ -496,7 +537,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1920/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1920/master/Witching_Hour/gif.gif",
       "last_update": "22/04/20",
-      "author": "étudiants en design d'interaction"
+      "author": "étudiants en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Workshop Code Créatif 2020",
@@ -506,7 +548,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1920/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1920/master/Groupe6_Nuance/gif.gif",
       "last_update": "20/03/20",
-      "author": "étudiants en design d'interaction"
+      "author": "étudiants en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Projet gestes de l'ennui 2019-2020",
@@ -516,7 +559,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_gestes_de_l_ennui_1920/master/README.MD",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_gestes_de_l_ennui_1920/master/CORNIER_VICTOR_KAAN_NICOLAS/screen.png",
       "last_update": "23/03/20",
-      "author": "étudiants en design graphique"
+      "author": "étudiants en design graphique",
+      "language": "fr"
     },
     {
       "title": "Projet patatap 2019-2020",
@@ -526,7 +570,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1920/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1920/master/Lison_Guignard/gif.gif",
       "last_update": "23/03/20",
-      "author": "étudiants en design d'interaction"
+      "author": "étudiants en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Workshop game from scratch 2019",
@@ -536,7 +581,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2019/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2019/master/Steeve_Dossou/gif.gif",
       "last_update": "26/09/19",
-      "author": "étudiants en game design"
+      "author": "étudiants en game design",
+      "language": "fr"
     },
     {
       "title": "Projet motifs génératifs 2019",
@@ -546,7 +592,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_generative-patterns_2019/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_generative-patterns_2019/master/Gillet_Pauline/GIF.gif",
       "last_update": "12/09/19",
-      "author": "étudiants en design graphique"
+      "author": "étudiants en design graphique",
+      "language": "fr"
     },
     {
       "title": "Workshop Code Créatif 2019",
@@ -556,7 +603,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1819/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1819/master/Void/VOID.gif",
       "last_update": "14/03/19",
-      "author": "étudiants en design d'interaction"
+      "author": "étudiants en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Workshop ALT-CTRL 2018-2019",
@@ -566,7 +614,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1819/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1819/master/Splateau/gif.gif",
       "last_update": "30/04/20",
-      "author": "étudiants game design et en design d'interaction"
+      "author": "étudiants game design et en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Projet jeux électroniques 2018-2019",
@@ -576,7 +625,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1819/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1819/master/Punchers/images/PUNCHERS.gif",
       "last_update": "14/02/19",
-      "author": "étudiants en design d'interaction"
+      "author": "étudiants en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Projet patatap 2018-2019",
@@ -586,7 +636,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1819/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1819/master/Heurtebise_Simon/patatap.gif",
       "last_update": "01/02/19",
-      "author": "étudiants en design d'interaction"
+      "author": "étudiants en design d'interaction",
+      "language": "fr"
     },
     {
       "title": "Dis-information signal 2018",
@@ -596,7 +647,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/projet_dis-information_signals_1819/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_dis-information_signals_1819/master/Papy-raleur/papy-raleur.gif",
       "last_update": "28/01/19",
-      "author": "étudiants en design graphique"
+      "author": "étudiants en design graphique",
+      "language": "fr"
     },
     {
       "title": "Workshop game from scratch 2018",
@@ -606,7 +658,8 @@
       "url": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2018/master/README.md",
       "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2018/master/assets/gifs/gamefromscratch_Riwan_Majidate.gif",
       "last_update": "30/11/18",
-      "author": "étudiants en game design"
+      "author": "étudiants en game design",
+      "language": "fr"
     }
   ],
   "resources": [
@@ -617,7 +670,8 @@
       "description": "Our templates to get started with several tasks",
       "url": "https://github.com/AtelierNum/templates",
       "thumbnail": "https://avatars.githubusercontent.com/u/43267915?s=400&u=b10be47a0c3fea1ecc3c01eac901d87c82c3e342&v=4",
-      "last_update": "18/10/22"
+      "last_update": "18/10/22",
+      "language": "en"
     },
     {
       "title": "TD templates",
@@ -626,7 +680,8 @@
       "description": "A bunch of templates for Touch Designer by Mael Pinard aka dr pinarson",
       "url": "https://github.com/pinarson/TD",
       "thumbnail": "https://raw.githubusercontent.com/pinarson/TD/master/POETIC_PARTICLE/Capture.PNG",
-      "last_update": "17/10/22"
+      "last_update": "17/10/22",
+      "language": "en"
     },
 
     {
@@ -636,7 +691,8 @@
       "description": "Coding ressources for many langages !",
       "url": "https://replit.com/curriculum",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_A-frame/main/assets/replit.png",
-      "last_update": "05/05/21"
+      "last_update": "05/05/21",
+      "language": "en"
     },
     {
       "title": "OpenMV and arduino",
@@ -653,7 +709,8 @@
       "description": "Connect the openMV cam to arduino and detect april tags!",
       "url": "https://github.com/emoc/openmv_utile/tree/master/communication_serie_openmv_arduino",
       "thumbnail": "https://raw.githubusercontent.com/emoc/openmv_utile/master/communication_serie_openmv_arduino/communication_serie_openmv_arduino_bb.png",
-      "last_update": "05/05/21"
+      "last_update": "05/05/21",
+      "language": "en"
     },
     {
       "title": "Processing OSC controller",
@@ -670,7 +727,8 @@
       "description": "Streamlining the process of creating osc application with processing for desktop and android",
       "url": "https://github.com/b2renger/processing_osc_controller",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/processing_osc_controller/main/assets/p5_2.png",
-      "last_update": "05/05/21"
+      "last_update": "05/05/21",
+      "language": "en"
     },
     {
       "title": "Noise in creative coding",
@@ -679,7 +737,8 @@
       "description": "In depth explanation about noise",
       "url": "https://varun.ca/noise/",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js-designing-interactive-patterns/master/images/joydivision.jpg",
-      "last_update": "05/05/21"
+      "last_update": "05/05/21",
+      "language": "en"
     },
     {
       "title": "Scan the world",
@@ -688,7 +747,8 @@
       "description": "3D models of sculptures and cultural artefacts",
       "url": "https://www.myminifactory.com/scantheworld/",
       "thumbnail": "https://cdn.myminifactory.com/assets/object-assets/5a34065096e57/images/230X230-head-of-david.jpg",
-      "last_update": "05/05/21"
+      "last_update": "05/05/21",
+      "language": "en"
     },
     {
       "title": "Creative coding algorithms & techniques",
@@ -697,7 +757,8 @@
       "description": "Encyclopedia of algorithms",
       "url": "https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b",
       "thumbnail": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc555e08b-b0ab-4175-8220-df4d5fdaf44f%2F42c37c87011633.5daaf6257b791.png?table=block&id=c5550ef2-f757-4126-bdc7-7b09ed76651b&width=3840&userId=&cache=v2",
-      "last_update": "05/05/21"
+      "last_update": "05/05/21",
+      "language": "en"
     },
     {
       "title": "RunwayML and Cables.gl",
@@ -716,7 +777,8 @@
       "description": "Getting started with RunwayML inside Cables.gl",
       "url": "https://www.notion.so/RunwayML-in-Cables-74be201bbfde4e30b0e599cef7c32541",
       "thumbnail": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F056653fe-1ddf-402b-a0ff-b6de1832bedb%2FAttnGAN_banana.jpeg?table=block&id=20c9222e-35ec-484a-973d-554fc5a1b928&width=510&userId=&cache=v2",
-      "last_update": "05/05/21"
+      "last_update": "05/05/21",
+      "language": "en"
     },
     {
       "title": "Face Tracking for creative coding",
@@ -725,7 +787,8 @@
       "description": "How to do face tracking, emotion recognition with web technologies",
       "url": "https://github.com/stc/face-tracking-p5js",
       "thumbnail": "https://user-images.githubusercontent.com/270431/40185787-c0e67830-59f3-11e8-9b94-5e619b195f57.jpg",
-      "last_update": "22/01/21"
+      "last_update": "22/01/21",
+      "language": "en"
     },
     {
       "title": "Template Maker",
@@ -734,7 +797,8 @@
       "description": "Design patterns to create boxes in carboard or wood with a laser cutter or not...",
       "url": "https://www.templatemaker.nl/en/",
       "thumbnail": "https://www.templatemaker.nl/assets/images/example/boxlid.jpeg",
-      "last_update": "22/01/21"
+      "last_update": "22/01/21",
+      "language": "en"
     },
     {
       "title": "Getting started with github pages",
@@ -743,7 +807,8 @@
       "description": "How to configure gh-pages to host free static pages",
       "url": "https://guides.github.com/features/pages/",
       "thumbnail": "https://guides.github.com/features/pages/pages-home-page.png",
-      "last_update": "22/01/21"
+      "last_update": "22/01/21",
+      "language": "en"
     },
     {
       "title": "Is it Code ? ",
@@ -752,7 +817,8 @@
       "description": "Ressources for creative coding and website creation",
       "url": "https://www.isitcode.net/%C3%A0-propos",
       "thumbnail": "https://blot.im/cdn/blog_6c2a597018924596b0e0e6ba6b3b8724/_image_cache/a47e4b9d-e233-485d-84ed-6a650666f9ec.png",
-      "last_update": "22/01/21"
+      "last_update": "22/01/21",
+      "language": "en"
     },
     {
       "title": "Fruition ",
@@ -761,7 +827,8 @@
       "description": "Build websites with Notion and no code !",
       "url": "https://fruitionsite.com/",
       "thumbnail": "https://fruitionsite.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4c44874f-e60d-4d55-a6cd-6c9e0fdb6c6d%2FIcon.png?table=block&id=771ef386-5724-4c27-b938-9734a9cbff44&width=250&userId=&cache=v2",
-      "last_update": "22/01/21"
+      "last_update": "22/01/21",
+      "language": "en"
     },
     {
       "title": "Last Minut Engineers",
@@ -770,7 +837,8 @@
       "description": "Electronics projects for arduino and esp32 boards",
       "url": "https://lastminuteengineers.com/",
       "thumbnail": "https://lastminuteengineers.com/wp-content/uploads/2019/12/Project-Interfacing-Passive-Infrared-PIR-Sensor-with-Arduino-Uno.jpg",
-      "last_update": "22/01/21"
+      "last_update": "22/01/21",
+      "language": "en"
     },
     {
       "title": "Pose Animator",
@@ -779,7 +847,8 @@
       "description": "Pose Animator takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. It borrows the idea of skeleton-based animation from computer graphics and applies it to vector characters. Check out the demo !",
       "url": "https://github.com/yemount/pose-animator/",
       "thumbnail": "https://github.com/yemount/pose-animator/raw/master/resources/gifs/avatar-new-full-body.gif?raw=true",
-      "last_update": "25/06/20"
+      "last_update": "25/06/20",
+      "language": "en"
     },
     {
       "title": "The teachable machine",
@@ -788,7 +857,8 @@
       "description": "Train a computer to recognize your own images, sounds, & poses.",
       "url": "https://teachablemachine.withgoogle.com/",
       "thumbnail": "https://teachablemachine.withgoogle.com/assets/img/contentpage/home/teach-images.png",
-      "last_update": "25/06/20"
+      "last_update": "25/06/20",
+      "language": "en"
     },
     {
       "title": "Processing with AI",
@@ -797,7 +867,8 @@
       "description": "Un module de découverte de l'intelligence artificielle enseigné à l'EM Lyon. Natural Language Processing, Computer Vision, Chatbot, Classigication etc.",
       "url": "https://makerslab.em-lyon.com/pwai/",
       "thumbnail": "https://1.cms.s81c.com/sites/default/files/2019-12-23/2019_12_16_ProductPage_ABV_NLU_LeadSpace%20%281%29.jpg",
-      "last_update": "25/06/20"
+      "last_update": "25/06/20",
+      "language": "en"
     },
     {
       "title": "The coding train",
@@ -815,7 +886,8 @@
       "description": "Une collection de tutos vidéos divers et variés sur la programmation par Daniel Shiffman & Co",
       "url": "https://thecodingtrain.com/",
       "thumbnail": "https://thecodingtrain.com/assets/images/header.jpg",
-      "last_update": "24/06/20"
+      "last_update": "24/06/20",
+      "language": "en"
     },
     {
       "title": "ThreeJS + ARJS examples",
@@ -824,7 +896,8 @@
       "description": "Une collection d'exemples la réalité augmentée avec des technologies web !",
       "url": "https://stemkoski.github.io/AR-Examples/",
       "thumbnail": "https://stemkoski.github.io/AR-Examples/images/demo/hole-box.png",
-      "last_update": "17/06/20"
+      "last_update": "17/06/20",
+      "language": "en"
     },
     {
       "title": "Prototyping with fabrication",
@@ -833,7 +906,8 @@
       "description": "Un cours d'introduction aux techniques de prototypage pour la fabrication numérique, via le maker lab de l'EM Lyon.",
       "url": "https://prototyping-with-fab.gitlab.io/",
       "thumbnail": "http://www.lofirobot.com/wp-content/uploads/pojazd-1.jpg",
-      "last_update": "10/06/20"
+      "last_update": "10/06/20",
+      "language": "en"
     },
     {
       "title": "Règle des bases de l'ux design",
@@ -842,7 +916,8 @@
       "description": "Article théorique présentant quelques règle de base de l'UX design.",
       "url": "https://www.projet.io/blog/regles-de-base-de-l-ux-design-user-experience",
       "thumbnail": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/1951763/547664_145051.png",
-      "last_update": "09/06/20"
+      "last_update": "09/06/20",
+      "language": "fr"
     },
     {
       "title": "Unreal online learning",
@@ -860,7 +935,8 @@
       "description": "Tutorials and ressources on how to get started with unreal engine",
       "url": "https://www.unrealengine.com/en-US/onlinelearning-courses",
       "thumbnail": "https://cdn2.unrealengine.com/Unreal+Engine%2Fonlinelearning-courses%2Fa-tour-of-the-new-unreal-engine-learning-portal%2FLearnOnline_block_V1-1230x600-b2df2b73ca14633a1e7f192f5faab7f387a4b9e7.jpg",
-      "last_update": "28/05/20"
+      "last_update": "28/05/20",
+      "language": "en"
     },
     {
       "title": "Blender Guru",
@@ -869,7 +945,8 @@
       "description": "Tutorials and ressources on how to get started with 3D modelling in Blender",
       "url": "https://www.blenderguru.com/tutorials",
       "thumbnail": "https://static1.squarespace.com/static/58586fa5ebbd1a60e7d76d3e/58ca3c883f4058faf23124b5/5e6f1b2077c35d4616357582/1584339799451/maxresdefault+%287%29.jpg?format=1500w",
-      "last_update": "28/05/20"
+      "last_update": "28/05/20",
+      "language": "en"
     },
     {
       "title": "Creative Shrimp",
@@ -878,7 +955,8 @@
       "description": "Tutorials and ressources on how to get started with 3D modelling in Blender",
       "url": "https://www.creativeshrimp.com/tutorials",
       "thumbnail": "https://www.creativeshrimp.com/wp-content/uploads/2018/11/CreativeShrimp-logo-small.png",
-      "last_update": "28/05/20"
+      "last_update": "28/05/20",
+      "language": "en"
     },
     {
       "title": "Happy Codding",
@@ -887,7 +965,8 @@
       "description": "Tutorials and ressources on how to get started with coding in java (processing), js etc.",
       "url": "https://happycoding.io/",
       "thumbnail": "https://happycoding.io/tutorials/java-server/images/client-server-7.png",
-      "last_update": "07/05/20"
+      "last_update": "07/05/20",
+      "language": "en"
     },
     {
       "title": "Picular",
@@ -896,7 +975,8 @@
       "description": "Like google but for colors",
       "url": "https://picular.co/",
       "thumbnail": "data:image/png;base64,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",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Learning Synths",
@@ -905,7 +985,8 @@
       "description": "Abbleton Live in browser introduction to sound synthesis ! e.g. How to build synths. ",
       "url": "https://learningsynths.ableton.com/",
       "thumbnail": "https://ableton-production.imgix.net/help/learning-synths.jpg",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Learning Music",
@@ -914,7 +995,8 @@
       "description": "Abbleton Live in browser introduction to making electronic music ! ",
       "url": "https://learningmusic.ableton.com/",
       "thumbnail": "https://ableton-learningmusic.imgix.net/kick.jpg",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Poly",
@@ -923,7 +1005,8 @@
       "description": "Colaborative bank of 3D models by google",
       "url": "https://poly.google.com/",
       "thumbnail": "https://www.gstatic.com/vr/poly/logo_cropped.svg",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "ZMorph academy",
@@ -932,7 +1015,8 @@
       "description": "Learn how to use the zmorph from the workshop with this online ressource. 3D printing, laser engraving or CNC milling.",
       "url": "https://academy.zmorph3d.com/",
       "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/iVG8mAaQtGiZ2c6bXghh",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "AI Education by MIT",
@@ -941,7 +1025,8 @@
       "description": "Theorical ressources and desambiguation about machine learning and artificial intelligence",
       "url": "https://aieducation.mit.edu/",
       "thumbnail": "https://aieducation.mit.edu/images/banner2.jpg",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "RunwayML",
@@ -950,7 +1035,8 @@
       "description": "The swiss knife of machine learning. No code needed but it might help in some cases...",
       "url": "https://runwayml.com/",
       "thumbnail": "https://runwayml.com/static/dir-d118dd3456be5087dffc6d0eb1278da3.jpg",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "ml5js",
@@ -968,7 +1054,8 @@
       "description": "Friendly Machine Learning for the web. Probably the simplest way to get started with interaction design projects using ML.",
       "url": "https://ml5js.org/",
       "thumbnail": "https://learn.ml5js.org/docs/_media/reference__header-neural-network.png",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Machine Learning for Artists",
@@ -984,7 +1071,8 @@
       "description": "ml4a is a collection of free educational resources devoted to machine learning for artists.",
       "url": "https://ml4a.github.io/",
       "thumbnail": "https://ml4a.github.io/images/classes/opendot/thumbnail_06.png",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Axidraw + Processing by Julien V3ga",
@@ -1001,7 +1089,8 @@
       "description": "A tutorial on how to use a axidraw with processing to print beautiful generative artworks.",
       "url": "https://www.generativehut.com/post/axidraw-processing",
       "thumbnail": "https://static.wixstatic.com/media/895a2e_e3ed935dc7d742e485aefb270540d02c~mv2.jpg/v1/fill/w_1480,h_1973,al_c,q_90,usm_0.66_1.00_0.01/895a2e_e3ed935dc7d742e485aefb270540d02c~mv2.webp",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Processing for Raspberry PI",
@@ -1017,7 +1106,8 @@
       "description": "Create projects with processing on the raspberry pi handheld computer. ",
       "url": "https://pi.processing.org/tutorial/",
       "thumbnail": "https://pi.processing.org/tutorial/capacitive-touch-interface/processing-capacitive-touch-simple.jpg",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Tyler Hobbs essays about creative coding",
@@ -1026,7 +1116,8 @@
       "description": "Tyler Hobbs is a generative artist producing images from code, and he writes essays about it !",
       "url": "https://tylerxhobbs.com/essays",
       "thumbnail": "https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/1580787598903-OJPZSN9XO14MTLBIKCHB/ke17ZwdGBToddI8pDm48kC-8L_lcZHTLXY62uC4ZxftZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzazLHhqnYQpFtlWcKkzEhkoXATh7P0KMQhcqcm-FSwhyseGc75yFc6Zmv6P6wBNeo/banner.jpg?format=1500w",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Solving sol",
@@ -1042,7 +1133,8 @@
       "description": " An open project to implement Sol LeWitt's instructions in JavaScript. Sol LeWitt was an American artist often regarded as the founder of Conceptual and Minimal art. Some of his most famous works were wall drawings for which he only provided instructions.",
       "url": "http://solvingsol.com/",
       "thumbnail": "http://solvingsol.com/screenshots/thumbs/797-doolittle-index.html.png",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Generative Artistry",
@@ -1051,7 +1143,8 @@
       "description": "Learn how to code generative visual with pure javascript",
       "url": "https://generativeartistry.com/tutorials/",
       "thumbnail": "https://generativeartistry.com/img/06-circle-packing.png",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Sketching with maths and quasi physics",
@@ -1067,7 +1160,8 @@
       "description": "Kynd's tutorials on maths and physics for the web with p5js with interactive examples and code samples.",
       "url": "https://kynd.github.io/p5sketches/index.html",
       "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/DCxfsYRXcAM3I_f.jpg",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "The Nature of Code",
@@ -1083,7 +1177,8 @@
       "description": "Daniel Shiffman's nature of code online book. Learn how to code with maths, physics system and even neural networks. ",
       "url": "https://natureofcode.com/",
       "thumbnail": "https://natureofcode.com/book/imgs/chapter08/ch08_01.png",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Arduino remote learning",
@@ -1092,7 +1187,8 @@
       "description": "Arduino official learning center",
       "url": "https://www.arduino.cc/remotelearning",
       "thumbnail": "https://www.datocms-assets.com/25112/1586963646-icons.png",
-      "last_update": "20/04/20"
+      "last_update": "20/04/20",
+      "language": "en"
     },
     {
       "title": "Cat like coding",
@@ -1109,7 +1205,8 @@
       "description": "Beginners and advanced untity ressources",
       "url": "https://catlikecoding.com/unity/tutorials/",
       "thumbnail": "https://catlikecoding.com/unity/tutorials/hex-map/part-26/tutorial-image.jpg",
-      "last_update": "20/03/20"
+      "last_update": "20/03/20",
+      "language": "en"
     },
     {
       "title": "The book of shaders",
@@ -1125,7 +1222,8 @@
       "description": "Learn how to code powefull fragment shaders",
       "url": "https://thebookofshaders.com/",
       "thumbnail": "https://thebookofshaders.com/11/wood.png",
-      "last_update": "23/03/20"
+      "last_update": "23/03/20",
+      "language": "en"
     },
     {
       "title": "P5js shaders",
@@ -1142,7 +1240,8 @@
       "description": "Learn how to code fragment shaders for the web with p5js",
       "url": "https://itp-xstory.github.io/p5js-shaders/#/",
       "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js-shaders/master/gifs/displacement.gif",
-      "last_update": "23/03/20"
+      "last_update": "23/03/20",
+      "language": "en"
     },
     {
       "title": "Creative coding essentials",
@@ -1151,7 +1250,8 @@
       "description": "Creative coding courses by Tim Rodenbroeker",
       "url": "https://timrodenbroeker.de/courses/creative-coding-essentials/",
       "thumbnail": "https://timrodenbroeker.de/wp-content/uploads/2020/03/rotate1_alt2_square3.gif",
-      "last_update": "23/03/20"
+      "last_update": "23/03/20",
+      "language": "en"
     }
   ]
 }
