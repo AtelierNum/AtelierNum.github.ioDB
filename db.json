@@ -7,9 +7,9 @@
     "url": "https://github.com/b2renger/Introduction_Arduino",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Arduino/master/assets/set_neopixels_rgb.gif",
     "last_update": "26/05/22",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "introduction_arduino_en": {
     "title": "Introduction Arduino",
@@ -19,9 +19,9 @@
     "url": "https://github.com/b2renger/Introduction_Arduino/tree/english",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Arduino/master/assets/set_neopixels_rgb.gif",
     "last_update": "26/05/22",
-    "author": "b2renger",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "arduino_from_the_ground_up": {
     "title": "Arduino from the ground up",
@@ -31,9 +31,9 @@
     "url": "https://ateliernum.notion.site/Arduino-from-the-ground-up-bcf1a01b24e74afaa1aea52defcec1f6",
     "thumbnail": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2b6eb06e-4540-4a28-bc2c-363c7e1af9dc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T090932Z&X-Amz-Expires=86400&X-Amz-Signature=6b4cbc1424ac26ec65727200d8a27049e77b4f4519068b61d62794bdf00faaeb&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject",
     "last_update": "09/11/22",
-    "author": "Valentin Dupas",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "Valentin Dupas"
   },
   "photogrametry": {
     "title": "Photogramétrie avec Reality Capture",
@@ -43,9 +43,9 @@
     "url": "https://github.com/LucieMrc/Photogrammetrie",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Photogrammetrie/main/images/capture6.png?token=GHSAT0AAAAAAB2ADYR5MVRGCBOM5O7H3HNIY2OLLQQ",
     "last_update": "16/10/22",
-    "author": "Lucie Mrc",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "pixel_mapping": {
     "title": "Pixel Mapping",
@@ -63,9 +63,9 @@
     "url": "https://github.com/LucieMrc/Madmapper_PixelMapping",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Madmapper_PixelMapping/main/images/gif1.gif",
     "last_update": "16/10/22",
-    "author": "Lucie Mrc",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "brodeuse": {
     "title": "Utiliser la brodeuse numérique",
@@ -75,9 +75,9 @@
     "url": "https://github.com/LucieMrc/BrodeuseNum_2spi",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
     "last_update": "24/05/22",
-    "author": "Lucie Mrc",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "embroidery": {
     "title": "Use the embroidery machine",
@@ -87,9 +87,9 @@
     "url": "https://github.com/LucieMrc/EmbroideryMachine_sp33d",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
     "last_update": "24/05/22",
-    "author": "Lucie Mrc",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "introduction_A-Frame": {
     "title": "Introduction à la Réalité Augmentée",
@@ -99,9 +99,9 @@
     "url": "https://github.com/b2renger/Introduction_A-frame#introduction_a-frame",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_A-frame/main/assets/snowAR.gif",
     "last_update": "23/05/22",
-    "author": "b2renger",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "tuto_silhouette_cameo": {
     "title": "Silhouette cameo découpe Vinyle",
@@ -111,9 +111,9 @@
     "url": "https://github.com/LucieMrc/Tuto_Silhouette_Cameo",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Tuto_Silhouette_Cameo/main/images/screen5.png",
     "last_update": "23/05/22",
-    "author": "Lucie Mrc",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "tuto_silhouette_cameo_eng": {
     "title": "Silhouette Cameo cutter",
@@ -123,9 +123,9 @@
     "url": "https://github.com/LucieMrc/EmbroideryMachine_sp33d",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Tuto_Silhouette_Cameo/main/images/screen5.png",
     "last_update": "23/05/22",
-    "author": "Lucie Mrc",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "sound_recording_sp33d": {
     "title": "How to use the sound studio",
@@ -135,9 +135,9 @@
     "url": "https://github.com/LucieMrc/SoundRecording_sp33d",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SoundRecording_sp33d/762d88fbcefb19f3b558cc856c927e615cb0eb7d/images/img3.jpg  ",
     "last_update": "23/05/22",
-    "author": "Lucie Mrc",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "sound_recording_2spi": {
     "title": "Enregistrer dans le studio son",
@@ -147,9 +147,9 @@
     "url": "https://github.com/LucieMrc/Prise2son_2spi",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SoundRecording_sp33d/762d88fbcefb19f3b558cc856c927e615cb0eb7d/images/img3.jpg  ",
     "last_update": "23/05/22",
-    "author": "Lucie Mrc",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "Madmapper_2spi": {
     "title": "Video Mapping et Madmapper",
@@ -159,9 +159,9 @@
     "url": "https://github.com/LucieMrc/Madmapper_2spi  ",
     "thumbnail": "https://github.com/LucieMrc/Madmapper_2spi/raw/main/images/screen1.png",
     "last_update": "22/12/21",
-    "author": "Lucie Mrc",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "TD_KantanMapper": {
     "title": "Touch Designer et Kantan Mapper",
@@ -171,9 +171,9 @@
     "url": "https://github.com/LucieMrc/TD_KantanMapper",
     "thumbnail": "https://github.com/LucieMrc/TD_KantanMapper/raw/main/images/screen10.png",
     "last_update": "22/12/21",
-    "author": "Lucie Mrc",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "arduino_led_animation": {
     "title": "Arduino et animation leds",
@@ -183,9 +183,9 @@
     "url": "https://github.com/b2renger/arduino_led_animation",
     "thumbnail": "https://github.com/b2renger/arduino_led_animation/raw/main/assets/exemple_05_noise.gif",
     "last_update": "22/12/21",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "TD_Augmenta": {
     "title": "Augmenta et Touch Designer",
@@ -195,9 +195,9 @@
     "url": "https://github.com/LucieMrc/TD_Augmenta",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/TD_Augmenta/ef925a80306f750ed75f5e74beecfce7a732263e/images/screen5.png",
     "last_update": "22/12/21",
-    "author": "Lucie Mrc",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "Lucie Mrc"
   },
   "introduction_photon": {
     "title": "Introduction Photon",
@@ -207,9 +207,9 @@
     "url": "https://github.com/emoc/photon_introduction",
     "thumbnail": "https://raw.githubusercontent.com/emoc/photon_introduction/master/assets/anims/photon_listening_mode.gif",
     "last_update": "29/04/21",
-    "author": "Pierre Commenge",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Pierre Commenge"
   },
   "introduction_unity": {
     "title": "Introduction Unity",
@@ -219,9 +219,9 @@
     "url": "https://github.com/MartinCailleau/SoundTower",
     "thumbnail": "https://raw.githubusercontent.com/MartinCailleau/SoundTower/master/img/image12.gif",
     "last_update": "14/09/20",
-    "author": "Martin Cailleau",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Martin Cailleau"
   },
   "introduction_touch_designer": {
     "title": "Introduction Touch Designer",
@@ -231,9 +231,9 @@
     "url": "https://github.com/benjarier/Introduction_TouchDesigner",
     "thumbnail": "https://raw.githubusercontent.com/benjarier/Introduction_TouchDesigner/master/assets/TD1.gif",
     "last_update": "18/05/20",
-    "author": "Benjamin Carrier",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Benjamin Carrier"
   },
   "introduction_p5js": {
     "title": "Introduction à p5js",
@@ -243,9 +243,9 @@
     "url": "https://github.com/b2renger/Introduction_p5js",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_p5js/master/assets/01_dessiner_05.png",
     "last_update": "01/09/19",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "introduction_pure_pata": {
     "title": "Introduction à Pure-Data",
@@ -255,9 +255,9 @@
     "url": "https://github.com/b2renger/Introduction_Pure_Data",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Pure_Data/master/assets/image-02.png",
     "last_update": "18/03/20",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "introduction_processing": {
     "title": "Introduction à Processing",
@@ -274,9 +274,9 @@
     "url": "https://github.com/b2renger/Introduction_Processing",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Processing/master/assets/020_pixels.png",
     "last_update": "01/05/17",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "p5js_image_alteration": {
     "title": "Transformation d'images",
@@ -295,9 +295,9 @@
     "url": "https://github.com/b2renger/p5js_image_alteration",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_image_alteration/master/result_images/example_09_triangulation_anim.gif",
     "last_update": "16/12/19",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "p5js_typo": {
     "title": "Generative Typography",
@@ -315,9 +315,9 @@
     "url": "https://github.com/b2renger/p5js_typo",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_typo/master/assets/p5js_typo.gif",
     "last_update": "23/11/16",
-    "author": "b2renger",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "p5js-designing-interactive-patterns": {
     "title": "Motifs génératifs",
@@ -335,9 +335,9 @@
     "url": "https://github.com/b2renger/p5js-designing-interactive-patterns",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js-designing-interactive-patterns/master/images/noise-asymetric.gif",
     "last_update": "19/05/19",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "p5js_codecreatif": {
     "title": "Patatap",
@@ -355,9 +355,9 @@
     "url": "https://github.com/b2renger/p5js_codecreatif",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_codecreatif/master/gifs/patatap-final.gif",
     "last_update": "08/04/20",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "p5js_gestes_de_l_ennui": {
     "title": "Gestes de l'ennui",
@@ -375,9 +375,9 @@
     "url": "https://github.com/b2renger/p5js_gestes_de_l_ennui",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_gestes_de_l_ennui/master/assets/realisation_finale_black.png",
     "last_update": "16/12/19",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "workshop_processing_PCD2019": {
     "title": "Workshop Processing community day - Processing",
@@ -387,9 +387,9 @@
     "url": "https://github.com/AtelierNum/workshop_processing_PCD2019",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_processing_PCD2019/master/assets/rosace2.png",
     "last_update": "12/02/19",
-    "author": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel"
   },
   "workshop_p5js_PCD2019": {
     "title": "Workshop Processing community day - P5js",
@@ -399,9 +399,9 @@
     "url": "https://github.com/AtelierNum/workshop_p5js_PCD2019",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_p5js_PCD2019/master/Birds.png",
     "last_update": "13/02/19",
-    "author": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel"
   },
   "sound_design_references_practices": {
     "title": "Sound Design references et pratiques",
@@ -411,9 +411,9 @@
     "url": "https://github.com/b2renger/SoundDesign-references-practices",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/SoundDesign-references-practices/master/documents/Designingsound.org_studio-disney.jpg",
     "last_update": "26/02/18",
-    "author": "b2renger",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "processing_physics_game_workshop": {
     "title": "Game From Scratch",
@@ -423,9 +423,9 @@
     "url": "https://github.com/b2renger/processing_physics_game_workshop",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/processing_physics_game_workshop/master/physics_game_workshop.gif",
     "last_update": "09/11/18",
-    "author": "b2renger et Martin Cailleau",
     "language": "fr",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger et Martin Cailleau"
   },
   "workshop_entomologik_processing-arduino": {
     "title": "Ressource for Entomologik workshop ",
@@ -442,9 +442,9 @@
     "url": "https://github.com/b2renger/workshop_entomologik_processing-arduino",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/workshop_entomologik_processing-arduino/master/images/flower1.png",
     "last_update": "21/02/19",
-    "author": "b2renger",
     "language": "en",
-    "type": "course"
+    "type": "course",
+    "authors": "b2renger"
   },
   "workshop_code_creatif_2021": {
     "title": "Workshop Code Créatif 2021",
@@ -454,9 +454,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_2021/main/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_2021/main/FeelTheUniverse/output.gif",
     "last_update": "26/01/21",
-    "author": "étudiants en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design d'interaction"
   },
   "workshop_game_VR_2020": {
     "title": "Workshop Game VR 2020",
@@ -466,9 +466,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_game_VR_2020/main/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_game_VR_2020/main/Rendu_Groupe2_Screen_VideoNoire.png",
     "last_update": "14/01/21",
-    "author": "étudiants en game expérience design",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en game expérience design"
   },
   "workshop_diorama_lumiere_2020": {
     "title": "Workshop Lumière 2020",
@@ -478,9 +478,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_diorama_lumiere_2020/main/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_diorama_lumiere_2020/main/01_LaForetMysterieuse_Groupe01/Photos_Videos/05.jpg",
     "last_update": "14/01/21",
-    "author": "étudiants en espaces scénographiéss",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en espaces scénographiéss"
   },
   "workshop_mapping_cinetique_2020": {
     "title": "Workshop Mapping Cinétique 2020",
@@ -490,9 +490,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_mapping_cinetique_2020/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_mapping_cinetique_2020/main/Nebuleuse/teaser.gif",
     "last_update": "23/12/20",
-    "author": "étudiants en motion design",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en motion design"
   },
   "projet_motifs_d_expression_2020": {
     "title": "Projet motifs d'expression 2020",
@@ -502,9 +502,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_motifs_d_expression_2020/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_motifs_d_expression_2020/main/Anaelle_et_Pierre/gif.gif",
     "last_update": "23/12/20",
-    "author": "étudiants en motion design",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en motion design"
   },
   "workshop_gamefromscratch_2020": {
     "title": "Workshop game from scratch 2020",
@@ -514,9 +514,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2020/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2020/master/Amelie_Conoir/gif.gif",
     "last_update": "22/12/20",
-    "author": "étudiants en game design",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en game design"
   },
   "projet_yearbook_2020": {
     "title": "Projet Yearbook 2020",
@@ -526,9 +526,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_Yearbook_2020/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_Yearbook_2020/master/assets/rendus/Myriam_portrait.png",
     "last_update": "09/06/20",
-    "author": "étudiants en design graphique",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design graphique"
   },
   "workshop_installation_interactive_2020": {
     "title": "Workshop Intallations Interactives 2020",
@@ -538,9 +538,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_installation_interactive_2020/master/README.md",
     "thumbnail": "https://github.com/AtelierNum/workshop_installation_interactive_2020/raw/master/Scratch_massive/scratch_massive.gif",
     "last_update": "18/05/20",
-    "author": "étudiants en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design d'interaction"
   },
   "workshop_alt_ctrl_1920": {
     "title": "Workshop ALT-CTRL 2019-2020",
@@ -550,9 +550,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1920/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1920/master/Shaolin_Dragon/gif.gif",
     "last_update": "30/04/20",
-    "author": "étudiants game design et en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants game design et en design d'interaction"
   },
   "projet_jeu_electronique_1920": {
     "title": "Projet jeux électroniques 2019-2020",
@@ -562,9 +562,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1920/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1920/master/Witching_Hour/gif.gif",
     "last_update": "22/04/20",
-    "author": "étudiants en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design d'interaction"
   },
   "workshop_code_creatif_1920": {
     "title": "Workshop Code Créatif 2020",
@@ -574,9 +574,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1920/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1920/master/Groupe6_Nuance/gif.gif",
     "last_update": "20/03/20",
-    "author": "étudiants en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design d'interaction"
   },
   "projet_gestes_de_l_ennui_1920": {
     "title": "Projet gestes de l'ennui 2019-2020",
@@ -586,9 +586,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_gestes_de_l_ennui_1920/master/README.MD",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_gestes_de_l_ennui_1920/master/CORNIER_VICTOR_KAAN_NICOLAS/screen.png",
     "last_update": "23/03/20",
-    "author": "étudiants en design graphique",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design graphique"
   },
   "projet_patatap_1920": {
     "title": "Projet patatap 2019-2020",
@@ -598,9 +598,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1920/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1920/master/Lison_Guignard/gif.gif",
     "last_update": "23/03/20",
-    "author": "étudiants en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design d'interaction"
   },
   "workshop_gamefromscratch_2019": {
     "title": "Workshop game from scratch 2019",
@@ -610,9 +610,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2019/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2019/master/Steeve_Dossou/gif.gif",
     "last_update": "26/09/19",
-    "author": "étudiants en game design",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en game design"
   },
   "projet_generative-patterns_2019": {
     "title": "Projet motifs génératifs 2019",
@@ -622,9 +622,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_generative-patterns_2019/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_generative-patterns_2019/master/Gillet_Pauline/GIF.gif",
     "last_update": "12/09/19",
-    "author": "étudiants en design graphique",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design graphique"
   },
   "workshop_code_creatif_1819": {
     "title": "Workshop Code Créatif 2019",
@@ -634,9 +634,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1819/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1819/master/Void/VOID.gif",
     "last_update": "14/03/19",
-    "author": "étudiants en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design d'interaction"
   },
   "workshop_alt-ctrl_1819": {
     "title": "Workshop ALT-CTRL 2018-2019",
@@ -646,9 +646,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1819/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1819/master/Splateau/gif.gif",
     "last_update": "30/04/20",
-    "author": "étudiants game design et en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants game design et en design d'interaction"
   },
   "projet_jeu_electronique_1819": {
     "title": "Projet jeux électroniques 2018-2019",
@@ -658,9 +658,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1819/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1819/master/Punchers/images/PUNCHERS.gif",
     "last_update": "14/02/19",
-    "author": "étudiants en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design d'interaction"
   },
   "projet_patatap_1819": {
     "title": "Projet patatap 2018-2019",
@@ -670,9 +670,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1819/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1819/master/Heurtebise_Simon/patatap.gif",
     "last_update": "01/02/19",
-    "author": "étudiants en design d'interaction",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design d'interaction"
   },
   "projet_dis-information_signals_1819": {
     "title": "Dis-information signal 2018",
@@ -682,9 +682,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_dis-information_signals_1819/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_dis-information_signals_1819/master/Papy-raleur/papy-raleur.gif",
     "last_update": "28/01/19",
-    "author": "étudiants en design graphique",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en design graphique"
   },
   "workshop_gamefromscratch_2018": {
     "title": "Workshop game from scratch 2018",
@@ -694,9 +694,9 @@
     "url": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2018/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2018/master/assets/gifs/gamefromscratch_Riwan_Majidate.gif",
     "last_update": "30/11/18",
-    "author": "étudiants en game design",
     "language": "fr",
-    "type": "project"
+    "type": "project",
+    "authors": "étudiants en game design"
   },
   "templates": {
     "title": "Ateliernum's code templates",
