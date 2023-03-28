@@ -1,4 +1,29 @@
 {
+  "introduction_td_en": {
+    "title": "Introduction Touch Designer",
+    "id": "introduction_td_en",
+    "tags": ["Graphisme", "Motion", "Débutant","Tuto","FR"],
+    "description": "Introduction à Touch Designer : interface basics and operators familiers plus some links to go further",
+    "url": "https://github.com/LucieMrc/IntroTD",
+    "thumbnail": "https://raw.githubusercontent.com/LucieMrc/IntroTD/main/images/mur_augmenta.gif",
+    "last_update": "28/03/23",
+    "language": "fr",
+    "type": "course",
+    "authors": "Lucie Mrc"
+  },
+
+  "introduction_laser_fr": {
+    "title": "Introduction découpe laser beambox",
+    "id": "introduction_laser_fr",
+    "tags": ["Fabrication", "Machine", "Débutant","Tuto","FR"],
+    "description": "Comment uiliser la découpe laser beambox de l'atelier numérique",
+    "url": "https://github.com/b2renger/Introduction_Laser_Beambox",
+    "thumbnail": "https://github.com/b2renger/Introduction_Laser_Beambox/raw/main/laser_assets/PXL_20221130_081125976.jpg",
+    "last_update": "27/03/23",
+    "language": "fr",
+    "type": "course",
+    "authors": "b2renger"
+  },
   "introduction_arduino_fr": {
     "title": "Introduction Arduino",
     "id": "introduction_arduino_fr",
@@ -70,7 +95,7 @@
   "brodeuse": {
     "title": "Utiliser la brodeuse numérique",
     "id": "brodeuse",
-    "tags": ["Débutant", "Tuto", "Machine", "FR"],
+    "tags": ["Débutant","Fabrication", "Tuto", "Machine", "FR"],
     "description": "Utiliser la brodeuse numérique",
     "url": "https://github.com/LucieMrc/BrodeuseNum_2spi",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
@@ -82,7 +107,7 @@
   "embroidery": {
     "title": "Use the embroidery machine",
     "id": "embroidery",
-    "tags": ["Débutant", "Tuto", "Machine", "EN"],
+    "tags": ["Débutant","Fabrication", "Tuto", "Machine", "EN"],
     "description": "How to use the embroidery machine !",
     "url": "https://github.com/LucieMrc/EmbroideryMachine_sp33d",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
@@ -106,7 +131,7 @@
   "tuto_silhouette_cameo": {
     "title": "Silhouette cameo découpe Vinyle",
     "id": "tuto_silhouette_cameo",
-    "tags": ["Stickers", "Cutter", "Tuto", "Machine", "Débutant", "FR"],
+    "tags": ["Stickers", "Cutter","Fabrication", "Tuto", "Machine", "Débutant", "FR"],
     "description": "Utiliser la silhouette cameo : faire des découpe de vinyle, stickers cuivrés etc.",
     "url": "https://github.com/LucieMrc/Tuto_Silhouette_Cameo",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Tuto_Silhouette_Cameo/main/images/screen5.png",
@@ -118,7 +143,7 @@
   "tuto_silhouette_cameo_eng": {
     "title": "Silhouette Cameo cutter",
     "id": "tuto_silhouette_cameo_eng",
-    "tags": ["Stickers", "Cutter", "Tuto", "Machine", "Débutant", "EN"],
+    "tags": ["Stickers", "Cutter","Fabrication", "Tuto", "Machine", "Débutant", "EN"],
     "description": "How to use the silhouette cameo to cut stickers",
     "url": "https://github.com/LucieMrc/EmbroideryMachine_sp33d",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Tuto_Silhouette_Cameo/main/images/screen5.png",
