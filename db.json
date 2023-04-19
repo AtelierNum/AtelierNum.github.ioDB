@@ -11,7 +11,6 @@
     "type": "course",
     "authors": "Lucie Mrc"
   },
-
   "introduction_laser_fr": {
     "title": "Introduction découpe laser beambox",
     "id": "introduction_laser_fr",
@@ -876,7 +875,7 @@
     "tags": ["Ressources", "Code", "Web", "Intermédiaire", "EN"],
     "description": "How to configure gh-pages to host free static pages",
     "url": "https://guides.github.com/features/pages/",
-    "thumbnail": "https://guides.github.com/features/pages/pages-home-page.png",
+    "thumbnail": "https://docs.github.com/assets/cb-49451/mw-1000/images/help/repository/repo-create.webp",
     "last_update": "22/01/21",
     "language": "en",
     "type": "resource"
@@ -962,7 +961,7 @@
     ],
     "description": "Une collection de tutos vidéos divers et variés sur la programmation par Daniel Shiffman & Co",
     "url": "https://thecodingtrain.com/",
-    "thumbnail": "https://thecodingtrain.com/assets/images/header.jpg",
+    "thumbnail": "https://thecodingtrain.com/static/9c9088468f956ce5ad28949cc8ed7942/a39bc/index.webp",
     "last_update": "24/06/20",
     "language": "en",
     "type": "resource"
@@ -1114,7 +1113,7 @@
     "tags": ["Machine Learning", "Theorie", "EN"],
     "description": "Theorical ressources and desambiguation about machine learning and artificial intelligence",
     "url": "https://aieducation.mit.edu/",
-    "thumbnail": "https://aieducation.mit.edu/images/banner2.jpg",
+    "thumbnail": "https://raise.mit.edu/images/2-about.png",
     "last_update": "20/04/20",
     "language": "en",
     "type": "resource"
@@ -1125,7 +1124,7 @@
     "tags": ["Machine Learning", "Débutant", "Intermédiaire", "Outil", "EN"],
     "description": "The swiss knife of machine learning. No code needed but it might help in some cases...",
     "url": "https://runwayml.com/",
-    "thumbnail": "https://runwayml.com/static/dir-d118dd3456be5087dffc6d0eb1278da3.jpg",
+    "thumbnail": "https://runway-static-assets.s3.amazonaws.com/app/magic-tools/AddGreen+B+Large.jpeg",
     "last_update": "20/04/20",
     "language": "en",
     "type": "resource"
@@ -1145,7 +1144,7 @@
     ],
     "description": "Friendly Machine Learning for the web. Probably the simplest way to get started with interaction design projects using ML.",
     "url": "https://ml5js.org/",
-    "thumbnail": "https://learn.ml5js.org/docs/_media/reference__header-neural-network.png",
+    "thumbnail": "https://ml5js.org/static/7cec9d6c6507d0bbf40836ee98c9819b/1a97c/ref-yolo.png",
     "last_update": "20/04/20",
     "language": "en",
     "type": "resource"
@@ -1211,7 +1210,7 @@
     "tags": ["Graphisme", "Creative Coding", "Theorie", "EN"],
     "description": "Tyler Hobbs is a generative artist producing images from code, and he writes essays about it !",
     "url": "https://tylerxhobbs.com/essays",
-    "thumbnail": "https://images.squarespace-cdn.com/content/v1/5c12933f365f02733c923e4e/1580787598903-OJPZSN9XO14MTLBIKCHB/ke17ZwdGBToddI8pDm48kC-8L_lcZHTLXY62uC4ZxftZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzazLHhqnYQpFtlWcKkzEhkoXATh7P0KMQhcqcm-FSwhyseGc75yFc6Zmv6P6wBNeo/banner.jpg?format=1500w",
+    "thumbnail": "http://solvingsol.com/_next/image?url=%2Fscreenshots%2F049-llimllib.png&w=1920&q=75",
     "last_update": "20/04/20",
     "language": "en",
     "type": "resource"
@@ -1258,7 +1257,7 @@
     ],
     "description": "Kynd's tutorials on maths and physics for the web with p5js with interactive examples and code samples.",
     "url": "https://kynd.github.io/p5sketches/index.html",
-    "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/DCxfsYRXcAM3I_f.jpg",
+    "thumbnail": "https://www.mdpi.com/physics/physics-04-00072/article_deploy/html/images/physics-04-00072-g001-550.jpg",
     "last_update": "20/04/20",
     "language": "en",
     "type": "resource"
@@ -1287,7 +1286,7 @@
     "tags": ["Arduino", "Interaction", "Débutant", "Tuto", "EN"],
     "description": "Arduino official learning center",
     "url": "https://www.arduino.cc/remotelearning",
-    "thumbnail": "https://www.datocms-assets.com/25112/1586963646-icons.png",
+    "thumbnail": "https://www.datocms-assets.com/32427/1603985459-image.png",
     "last_update": "20/04/20",
     "language": "en",
     "type": "resource"
