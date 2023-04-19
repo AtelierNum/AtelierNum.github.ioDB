@@ -1,4 +1,40 @@
 {
+  "ml_generative_ai": {
+    "title": "Ressources on generative AIs",
+    "id": "ml_generative_ai",
+    "tags": ["Code", "Machine Learning", "Débutant","EN"],
+    "description": "Collection of ressources, tools and writings linked to generative AIs - centered around image and text generation.",
+    "url": "https://ateliernum.notion.site/ML-generative-AI-78a1135419d04b3fa655e63a7e26d4ad",
+    "thumbnail": "https://content.wolfram.com/uploads/sites/43/2023/02/hero3-chat-exposition.png",
+    "last_update": "18/04/23",
+    "language": "en",
+    "type": "ressource",
+    "authors": "b2renger"
+  },
+  "cablesgl": {
+    "title": "Ressources about cables.gl",
+    "id": "cablesgl",
+    "tags": ["Code", "Graphisme","Motion","3D","Interaction", "Débutant","EN"],
+    "description": "Collection of ressources about cables.gl, a web based tool to create graphics and interactivity for websites in webgl. Coding optional",
+    "url": "https://ateliernum.notion.site/Cables-gl-2c16071eb73143b8adc465e6d0fb11f1",
+    "thumbnail": "https://cables.gl/made-with-cables/proudflesh.webp",
+    "last_update": "18/04/23",
+    "language": "en",
+    "type": "ressource",
+    "authors": "b2renger"
+  },
+  "smartphone_connectivity": {
+    "title": "List of smartphone apps for connectivity",
+    "id": "smartphone_connectivity",
+    "tags": ["Interaction", "Débutant","EN"],
+    "description": "List of application for iphones or android phones that can connect to another device to share data via wifi / bluetoth / nfc etc.",
+    "url": "https://ateliernum.notion.site/Apps-OSC-Bluetooth-NFC-IOT-0652cfd3ec7a462191bb4c5149d94f0d",
+    "thumbnail": "https://play-lh.googleusercontent.com/4Qk1W4sX_tImP3x6d1E4RPkhqSqasQMYr9UIlHu2zuC_3LfkE6K8u5cZjqW3XtcGVzgq=w2560-h1440",
+    "last_update": "17/04/23",
+    "language": "en",
+    "type": "ressource",
+    "authors": "b2renger"
+  },
   "introduction_td_en": {
     "title": "Introduction Touch Designer",
     "id": "introduction_td_en",
