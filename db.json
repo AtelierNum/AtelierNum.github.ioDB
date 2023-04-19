@@ -23,6 +23,18 @@
     "type": "ressource",
     "authors": "b2renger"
   },
+  "soft_robotics": {
+    "title": "Low tech et soft robotic",
+    "id": "soft_robotics",
+    "tags": ["Electronique","Robotique", "Débutant","FR"],
+    "description": "Notes prises lors du workshop low tech et soft robotics à Stereolux en novembre 2022",
+    "url": "https://ateliernum.notion.site/Workshop-Low-tech-et-soft-robotics-003139d508d9430fbd378bacd4118b01",
+    "thumbnail": "https://ateliernum.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7e1c0df9-f336-46b8-85d3-520631ac501d%2FUntitled.png?id=c0cd0fdd-c52b-42e9-9ca4-3caddc33d10e&table=block&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&width=1920&userId=&cache=v2",
+    "last_update": "17/04/23",
+    "language": "fr",
+    "type": "ressource",
+    "authors": "b2renger"
+  },
   "smartphone_connectivity": {
     "title": "List of smartphone apps for connectivity",
     "id": "smartphone_connectivity",
