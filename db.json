@@ -951,7 +951,7 @@
     "type": "resource"
   },
   "Last_minute_engineers": {
-    "title": "Last Minut Engineers",
+    "title": "Last Minute Engineers",
     "id": "Last_minute_engineers",
     "tags": ["Ressources", "Electronique", "Avancé", "EN"],
     "description": "Electronics projects for arduino and esp32 boards",
