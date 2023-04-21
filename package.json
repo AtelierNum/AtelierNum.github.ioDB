@@ -1,0 +1,23 @@
+{
+  "name": "ateliernum.github.iodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "none",
+  "scripts": {
+    "test": "node test_integrity.js",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtelierNum/AtelierNum.github.ioDB.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/AtelierNum/AtelierNum.github.ioDB/issues"
+  },
+  "homepage": "https://github.com/AtelierNum/AtelierNum.github.ioDB#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
