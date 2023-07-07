@@ -1,5 +1,17 @@
 [
   {
+    "title": "Unity's official XR / VR sample projects",
+    "id": "XR_Interaction_Toolkit_Examples",
+    "tags": ["VR", "XR", "Débutant", "EN"],
+    "description": "A github repo containing sample scenes showcasing how to use the official XR interaction toolkit to work with VR and MR headsets.",
+    "url": "https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples",
+    "thumbnail": "https://1000logos.net/wp-content/uploads/2021/10/Unity-logo-500x281.jpg",
+    "last_update": "07/07/23",
+    "language": "en",
+    "type": "resource",
+    "authors": "Valentin Dupas"
+  },
+  {
     "title": "Ressources on generative AIs",
     "id": "ml_generative_ai",
     "tags": [
