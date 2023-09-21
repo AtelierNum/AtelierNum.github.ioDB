@@ -1,8 +1,79 @@
 [
   {
+    "title": "Axidraw_sp33d",
+    "id": "Axidraw_sp33d",
+    "tags": [
+      "axidraw",
+      "Débutant",
+      "EN"
+    ],
+    "description": "How to use with almost full autonomy the Axidraw with a .svg and Inkscape.",
+    "url": "https://github.com/LucieMrc/Axidraw_sp33d",
+    "thumbnail": "",
+    "last_update": "21/09/23",
+    "language": "en",
+    "type": "resource",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "Axidraw_2spi",
+    "id": "Axidraw_2spi",
+    "tags": [
+      "axidraw",
+      "Débutant",
+      "FR"
+    ],
+    "description": "Comment utiliser plus ou moins en autonomie l'Axidraw avec Inkscape et un .svg",
+    "url": "https://github.com/LucieMrc/Axidraw_2spi",
+    "thumbnail": "",
+    "last_update": "21/09/23",
+    "language": "fr",
+    "type": "resource",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "SalleFondVert_Controller",
+    "id": "SalleFondVert_Controller",
+    "tags": [
+      "chataigne",
+      "Débutant",
+      "FR"
+    ],
+    "description": "Comment utiliser plus ou moins en autonomie le controleur light de la salle fond vert qui fait tablette (OSC) > ordinateur (Chataigne) > lights (DMX).",
+    "url": "https://github.com/LucieMrc/SalleFondVert_Controller",
+    "thumbnail": "",
+    "last_update": "21/09/23",
+    "language": "fr",
+    "type": "resource",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "ML - generative AI - Guide de prompt",
+    "id": "ML_generative_AI_Guide_de_prompt",
+    "tags": [
+      "ML",
+      "IA",
+      "text-to-image",
+      "Débutant",
+      "FR"
+    ],
+    "description": "Cette ressource est une petite introduction à la pratique des IAs génératives pour la production d’images.",
+    "url": "https://ateliernum.notion.site/ML-generative-AI-Guide-de-prompt-754606b53e064fa9ad5ef4b5fa5785c3?pvs=4",
+    "thumbnail": "https://file.notion.so/f/s/8ed0339c-11b4-414f-af06-880d4342f077/create-an-illustration-of-a-prompt-engineer-or-a-prompt-artist-this-person-should-be-sitting-at-_(1).png?id=95b7e446-3dfd-48b6-aeb6-c4f4cd21ee5b&table=block&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&expirationTimestamp=1695384000000&signature=Pri7SlydvfhkBqUg0YXrkvGcR-wtJ30Lc0yt5xLSzYU&downloadName=create-an-illustration-of-a-prompt-engineer-or-a-prompt-artist-this-person-should-be-sitting-at-+%281%29.png",
+    "last_update": "21/09/23",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger"
+  },
+  {
     "title": "Unity's official XR / VR sample projects",
     "id": "XR_Interaction_Toolkit_Examples",
-    "tags": ["VR", "XR", "Débutant", "EN"],
+    "tags": [
+      "VR",
+      "XR",
+      "Débutant",
+      "EN"
+    ],
     "description": "A github repo containing sample scenes showcasing how to use the official XR interaction toolkit to work with VR and MR headsets.",
     "url": "https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples",
     "thumbnail": "https://1000logos.net/wp-content/uploads/2021/10/Unity-logo-500x281.jpg",
