@@ -172,7 +172,7 @@
     "thumbnail": "https://github.com/b2renger/Introduction_Laser_Beambox/raw/main/laser_assets/PXL_20221130_081125976.jpg",
     "last_update": "27/03/23",
     "language": "fr",
-    "type": "course",
+    "type": "ressource",
     "authors": "b2renger"
   },
   {
@@ -252,7 +252,7 @@
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
     "last_update": "24/05/22",
     "language": "fr",
-    "type": "course",
+    "type": "ressource",
     "authors": "Lucie Mrc"
   },
   {
@@ -264,7 +264,7 @@
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
     "last_update": "24/05/22",
     "language": "en",
-    "type": "course",
+    "type": "ressource",
     "authors": "Lucie Mrc"
   },
   {
@@ -296,7 +296,7 @@
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Tuto_Silhouette_Cameo/main/images/screen5.png",
     "last_update": "23/05/22",
     "language": "fr",
-    "type": "course",
+    "type": "ressource",
     "authors": "Lucie Mrc"
   },
   {
@@ -316,7 +316,7 @@
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Tuto_Silhouette_Cameo/main/images/screen5.png",
     "last_update": "23/05/22",
     "language": "en",
-    "type": "course",
+    "type": "ressource",
     "authors": "Lucie Mrc"
   },
   {
@@ -328,7 +328,7 @@
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SoundRecording_sp33d/762d88fbcefb19f3b558cc856c927e615cb0eb7d/images/img3.jpg  ",
     "last_update": "23/05/22",
     "language": "en",
-    "type": "course",
+    "type": "ressource",
     "authors": "Lucie Mrc"
   },
   {
@@ -340,7 +340,7 @@
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SoundRecording_sp33d/762d88fbcefb19f3b558cc856c927e615cb0eb7d/images/img3.jpg  ",
     "last_update": "23/05/22",
     "language": "fr",
-    "type": "course",
+    "type": "ressource",
     "authors": "Lucie Mrc"
   },
   {
@@ -364,7 +364,7 @@
     "thumbnail": "https://github.com/LucieMrc/TD_KantanMapper/raw/main/images/screen10.png",
     "last_update": "22/12/21",
     "language": "en",
-    "type": "course",
+    "type": "ressource",
     "authors": "Lucie Mrc"
   },
   {
@@ -388,7 +388,7 @@
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/TD_Augmenta/ef925a80306f750ed75f5e74beecfce7a732263e/images/screen5.png",
     "last_update": "22/12/21",
     "language": "en",
-    "type": "course",
+    "type": "ressource",
     "authors": "Lucie Mrc"
   },
   {
@@ -560,7 +560,7 @@
       "Arduino",
       "Graphisme",
       "Print",
-      "Intermédiaire",
+      "Avancé",
       "FR"
     ],
     "description": "Identifier, enregister et visualiser les gestes de l'ennui avec arduino, processing et p5js. La finalité étant de produire une image imprimmable par sérigraphie",
@@ -580,7 +580,7 @@
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_processing_PCD2019/master/assets/rosace2.png",
     "last_update": "12/02/19",
     "language": "fr",
-    "type": "course",
+    "type": "ressource",
     "authors": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel"
   },
   {
@@ -592,7 +592,7 @@
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_p5js_PCD2019/master/Birds.png",
     "last_update": "13/02/19",
     "language": "fr",
-    "type": "course",
+    "type": "ressource",
     "authors": "Simon Renault, Raphaël Perraud, Théo Geiller, Meriem Gharbi et Luna Martel"
   },
   {
@@ -635,7 +635,7 @@
     "thumbnail": "https://raw.githubusercontent.com/b2renger/workshop_entomologik_processing-arduino/master/images/flower1.png",
     "last_update": "21/02/19",
     "language": "en",
-    "type": "course",
+    "type": "ressource",
     "authors": "b2renger"
   },
   {
