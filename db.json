@@ -1,5 +1,41 @@
 [
   {
+    "title": "Intro à Javascript",
+    "id": "vanilla_js",
+    "tags": ["javascript", "web", "JS", "Débutant", "FR"],
+    "description": "Voir les débuts de Javascript pour aller plus loin que HTML/CSS et transformer vos documents web en applications.",
+    "url": "https://www.valentindupas.com/courses/JS",
+    "thumbnail": "https://www.valentindupas.com/courses/JS/og_image.png",
+    "last_update": "18/01/24",
+    "language": "fr",
+    "type": "course",
+    "authors": "Valentin Dupas"
+  },
+  {
+    "title": "Intro à Threejs",
+    "id": "introduction_threejs",
+    "tags": ["web", "Intermédiaire", "3D", "Threejs", "FR"],
+    "description": "Apprenez à importer des modèles et des textures dans vos pages web",
+    "url": "https://www.valentindupas.com/courses/threejs/intro",
+    "thumbnail": "https://www.valentindupas.com/courses/threejs/og_image.png",
+    "last_update": "18/01/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "Valentin Dupas"
+  },
+  {
+    "title": "Intro à Chataigne",
+    "id": "introduction_chataigne",
+    "tags": ["chataigne", "Intermédiaire", "Interaction", "FR"],
+    "description": "Chataigne est un outil très intéressant pour organiser vos installations numérique",
+    "url": "https://www.valentindupas.com/courses/chataigne/intro",
+    "thumbnail": "https://www.valentindupas.com/courses/chataigne/og_image.png",
+    "last_update": "18/01/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "Valentin Dupas"
+  },
+  {
     "title": "Axidraw_sp33d",
     "id": "Axidraw_sp33d",
     "tags": ["axidraw", "Débutant", "EN"],
