@@ -212,6 +212,18 @@
     "authors": "Valentin Dupas"
   },
   {
+    "title": "Les exemples Arduino de Pierre Commenge",
+    "id": "pierre_commenge_arduino_examples",
+    "tags": ["Arduino", "Interaction", "Débutant", "FR"],
+    "description": "Ensembles d'exemples avec schéma et code pour utiliser les cartes arduino dans l'électronique d'interaction.",
+    "url": "https://github.com/emoc/arduino_interaction",
+    "thumbnail": "",
+    "last_update": "24/01/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "Pierre Commenge"
+  },
+  {
     "title": "Photogramétrie avec Reality Capture",
     "id": "photogrametry",
     "tags": ["Ressource", "3D", "Tuto", "FR"],
