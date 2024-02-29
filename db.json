@@ -496,7 +496,7 @@
       "FR"
     ],
     "description": "Transformer une image en manipulant ses pixels. Utilisation de boutons et de sliders et exports svg / png",
-    "url": "https://github.com/b2renger/p5js_image_alteration",
+    "url": "https://github.com/b2renger/p5js_image_alteration/blob/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_image_alteration/master/result_images/example_09_triangulation_anim.gif",
     "last_update": "16/12/19",
     "language": "fr",
@@ -517,7 +517,7 @@
       "EN"
     ],
     "description": "Transforming an image by manipulating its pixels. Using buttons and sliders and svg / png exports",
-    "url": "https://github.com/b2renger/p5js_image_alteration",
+    "url": "https://github.com/b2renger/p5js_image_alteration/blob/english/README.md",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_image_alteration/master/result_images/example_09_triangulation_anim.gif",
     "last_update": "16/12/19",
     "language": "en",
