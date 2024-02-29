@@ -483,7 +483,7 @@
     "authors": "b2renger"
   },
   {
-    "title": "Transformation d'images",
+    "title": "P5js - Transformation d'images",
     "id": "p5js_image_alteration",
     "tags": [
       "P5js",
@@ -504,7 +504,7 @@
     "authors": "b2renger"
   },
   {
-    "title": "Generative Typography",
+    "title": "P5js - Generative Typography",
     "id": "p5js_typo",
     "tags": [
       "P5js",
@@ -525,7 +525,7 @@
   },
   {
     "title": "P5js - Motifs génératifs",
-    "id": "p5js-designing-interactive-patterns",
+    "id": "p5js-designing-interactive-patterns-fr",
     "tags": [
       "P5js",
       "Creative Coding",
@@ -545,7 +545,7 @@
   },
   {
     "title": "P5js - Generative Patterns",
-    "id": "p5js-designing-interactive-patterns",
+    "id": "p5js-designing-interactive-patterns-en",
     "tags": [
       "P5js",
       "Creative Coding",
@@ -555,7 +555,7 @@
       "Débutant",
       "EN"
     ],
-    "description": "Utiliser des règles simples pour créer des motifs qui se répétent. Ce cours comporte une étude assez poussée des techniques de noise.",
+    "description": "Using simple rules to create repeating patterns. This course includes a fairly in-depth study of noise techniques.",
     "url": "https://github.com/b2renger/p5js-designing-interactive-patterns/blob/english/README.md",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js-designing-interactive-patterns/master/images/noise-asymetric.gif",
     "last_update": "19/05/19",
@@ -564,7 +564,7 @@
     "authors": "b2renger"
   },
   {
-    "title": "Patatap",
+    "title": "P5js - Patatap",
     "id": "p5js_codecreatif",
     "tags": [
       "P5js",
