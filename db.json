@@ -524,7 +524,7 @@
     "authors": "b2renger"
   },
   {
-    "title": "Motifs génératifs",
+    "title": "P5js - Motifs génératifs",
     "id": "p5js-designing-interactive-patterns",
     "tags": [
       "P5js",
@@ -536,10 +536,30 @@
       "FR"
     ],
     "description": "Utiliser des règles simples pour créer des motifs qui se répétent. Ce cours comporte une étude assez poussée des techniques de noise.",
-    "url": "https://github.com/b2renger/p5js-designing-interactive-patterns",
+    "url": "https://github.com/b2renger/p5js-designing-interactive-patterns/blob/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js-designing-interactive-patterns/master/images/noise-asymetric.gif",
     "last_update": "19/05/19",
     "language": "fr",
+    "type": "course",
+    "authors": "b2renger"
+  },
+  {
+    "title": "P5js - Generative Patterns",
+    "id": "p5js-designing-interactive-patterns",
+    "tags": [
+      "P5js",
+      "Creative Coding",
+      "Interaction",
+      "Graphisme",
+      "Web",
+      "Débutant",
+      "EN"
+    ],
+    "description": "Utiliser des règles simples pour créer des motifs qui se répétent. Ce cours comporte une étude assez poussée des techniques de noise.",
+    "url": "https://github.com/b2renger/p5js-designing-interactive-patterns/blob/english/README.md",
+    "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js-designing-interactive-patterns/master/images/noise-asymetric.gif",
+    "last_update": "19/05/19",
+    "language": "en",
     "type": "course",
     "authors": "b2renger"
   },
