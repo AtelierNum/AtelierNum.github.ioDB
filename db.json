@@ -504,6 +504,27 @@
     "authors": "b2renger"
   },
   {
+    "title": "P5js - Image alterations",
+    "id": "p5js_image_alteration",
+    "tags": [
+      "P5js",
+      "Creative Coding",
+      "Graphisme",
+      "Interaction",
+      "Print",
+      "Web",
+      "Intermédiaire",
+      "EN"
+    ],
+    "description": "Transforming an image by manipulating its pixels. Using buttons and sliders and svg / png exports",
+    "url": "https://github.com/b2renger/p5js_image_alteration",
+    "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js_image_alteration/master/result_images/example_09_triangulation_anim.gif",
+    "last_update": "16/12/19",
+    "language": "en",
+    "type": "course",
+    "authors": "b2renger"
+  },
+  {
     "title": "P5js - Generative Typography",
     "id": "p5js_typo",
     "tags": [
