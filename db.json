@@ -1,5 +1,17 @@
 [
   {
+    "title": "Réalité virtuelle - caque Quest",
+    "id": "quest_getting_started",
+    "tags": ["Dessin","Quest", "Medium", "VR", "Débutant", "FR"],
+    "description": "Ressources autour de l'utilisation de la VR et du Quest 2 pour le dessin",
+    "url": "https://ateliernum.notion.site/VR-Quest2-9bbac9d04aa84ad2839c5e8b9edc049c",
+    "thumbnail": "https://ateliernum.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0f8ab01b-d503-485d-9a00-a0fcf5895288%2Fee93feb7-9f7a-4be0-ab5c-190e6e9899a6%2Fmaxresdefault.jpg?table=block&id=4b38b5b4-2715-4bc8-a3b8-5d000d622c61&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&width=2000&userId=&cache=v2",
+    "last_update": "06/03/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger et Camille Lapellerie"
+  },
+  {
     "title": "Intro à Javascript",
     "id": "vanilla_js",
     "tags": ["javascript", "web", "JS", "Débutant", "FR"],
