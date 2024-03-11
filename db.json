@@ -165,13 +165,25 @@
   },
   {
     "title": "Introduction Touch Designer",
-    "id": "introduction_td_en",
+    "id": "introduction_td_fr",
     "tags": ["Graphisme", "Motion", "Débutant", "Tuto", "FR"],
     "description": "Introduction à Touch Designer : interface basics and operators familiers plus some links to go further",
-    "url": "https://github.com/LucieMrc/IntroTD",
+    "url": "https://github.com/LucieMrc/IntroTD_FR",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/IntroTD/main/images/mur_augmenta.gif",
     "last_update": "28/03/23",
     "language": "fr",
+    "type": "course",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "Introduction Touch Designer",
+    "id": "introduction_td_en",
+    "tags": ["Graphisme", "Motion", "Débutant", "Tuto", "EN"],
+    "description": "Introduction to Touch Designer : interface basics and operators familiers plus some links to go further",
+    "url": "https://github.com/LucieMrc/IntroTD",
+    "thumbnail": "https://raw.githubusercontent.com/LucieMrc/IntroTD/main/images/mur_augmenta.gif",
+    "last_update": "28/03/23",
+    "language": "en",
     "type": "course",
     "authors": "Lucie Mrc"
   },
