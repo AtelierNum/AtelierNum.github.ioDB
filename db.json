@@ -238,8 +238,8 @@
   {
     "title": "Photogramétrie avec Reality Capture",
     "id": "photogrametry",
-    "tags": ["Ressource", "3D", "Tuto", "FR"],
-    "description": "Un tuto pour réaliser de la photogramétrie et sortir des modèles 3D à partir de photos.",
+    "tags": ["Ressource", "3D", "Tuto", "FR", "Touch Designer"],
+    "description": "Un tuto pour réaliser de la photogramétrie et sortir des modèles 3D à partir de photos et manipulation dans touch desginer.",
     "url": "https://github.com/LucieMrc/Photogrammetrie",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Photogrammetrie/main/images/capture6.png?token=GHSAT0AAAAAAB2ADYR5MVRGCBOM5O7H3HNIY2OLLQQ",
     "last_update": "16/10/22",
