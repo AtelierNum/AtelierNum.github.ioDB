@@ -224,6 +224,18 @@
     "authors": "b2renger"
   },
   {
+    "title": "How to use the beambox laser cutter",
+    "id": "introduction_laser_en",
+    "tags": ["Fabrication", "Machine", "Débutant", "Tuto", "EN"],
+    "description": "How to use our laser cutter, the beambox",
+    "url": "https://github.com/b2renger/Introduction_Laser_Beambox/blob/english/README.md",
+    "thumbnail": "https://github.com/b2renger/Introduction_Laser_Beambox/raw/main/laser_assets/PXL_20221130_081125976.jpg",
+    "last_update": "27/03/23",
+    "language": "en",
+    "type": "resource",
+    "authors": "b2renger"
+  },
+  {
     "title": "Introduction Arduino",
     "id": "introduction_arduino_fr",
     "tags": ["Arduino", "Interaction", "Débutant", "Cookbook", "FR"],
