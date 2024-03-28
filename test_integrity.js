@@ -16,38 +16,44 @@ const isValidHTTPURL = (str) =>
 
 db.forEach((el) => {
   if (!el.id) {
-    errorMessages.push(`Article has no ID : ${JSON.stringify(el)}`);
+    errorMessages.push(`Article has no ID : ${JSON.stringify(el, null, 2)}`);
   }
 
   if (!el.title || typeof el.title !== "string" || el.title.trim() === "") {
     errorMessages.push(
-      `Article has an empty title or no title : ${JSON.stringify(el)}`
+      `Article has an empty title or no title : ${JSON.stringify(el, null, 2)}`
     );
   }
 
   if (evaluatedIds[el.id]) {
     errorMessages.push(
       `You have multiple articles with the same ID : ${JSON.stringify(
-        el
-      )} \n ${JSON.stringify(evaluatedIds[el.id])}`
+        el,
+        null,
+        2
+      )} \n ${JSON.stringify(evaluatedIds[el.id], null, 2)}`
     );
   }
 
   if (!el.url || !isValidHTTPURL(el.url)) {
     errorMessages.push(
-      `Article has an invalid http(s) URL or no URL : ${JSON.stringify(el)}`
+      `Article has an invalid http(s) URL or no URL : ${JSON.stringify(
+        el,
+        null,
+        2
+      )}`
     );
   }
 
   if (!isValidHTTPURL(el.thumbnail) && el.thumbnail.trim() !== "") {
     errorMessages.push(
-      `The URL of the thumbnail is malformed : ${JSON.stringify(el)}`
+      `The URL of the thumbnail is malformed : ${JSON.stringify(el, null, 2)}`
     );
   }
 
   if (!el.language) {
     errorMessages.push(
-      `The article dosen't specify a language : ${JSON.stringify(el)}`
+      `The article dosen't specify a language : ${JSON.stringify(el, null, 2)}`
     );
   }
 
@@ -56,14 +62,16 @@ db.forEach((el) => {
   if (!LANGUAGES.includes(el.language)) {
     errorMessages.push(
       `The article specifies an unsupported language: \n supported languages ${LANGUAGES} \n ${JSON.stringify(
-        el
+        el,
+        null,
+        2
       )}`
     );
   }
 
   if (!el.type) {
     errorMessages.push(
-      `The article dosen't specify a category : ${JSON.stringify(el)}`
+      `The article dosen't specify a category : ${JSON.stringify(el, null, 2)}`
     );
   }
 
@@ -72,7 +80,9 @@ db.forEach((el) => {
   if (!CATEGORIES.includes(el.type)) {
     errorMessages.push(
       `The article specifies an unsupported category: \n supported categories ${CATEGORIES} \n ${JSON.stringify(
-        el
+        el,
+        null,
+        2
       )}`
     );
   }

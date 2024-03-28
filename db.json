@@ -2,7 +2,14 @@
   {
     "title": "Réalité virtuelle - casque Quest",
     "id": "quest_getting_started",
-    "tags": ["Dessin","Quest", "Medium", "VR", "Débutant", "FR"],
+    "tags": [
+      "Dessin",
+      "Quest",
+      "Medium",
+      "VR",
+      "Débutant",
+      "FR"
+    ],
     "description": "Ressources autour de l'utilisation de la VR et du Quest 2 pour le dessin",
     "url": "https://ateliernum.notion.site/VR-Quest2-9bbac9d04aa84ad2839c5e8b9edc049c",
     "thumbnail": "https://ateliernum.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0f8ab01b-d503-485d-9a00-a0fcf5895288%2Fee93feb7-9f7a-4be0-ab5c-190e6e9899a6%2Fmaxresdefault.jpg?table=block&id=4b38b5b4-2715-4bc8-a3b8-5d000d622c61&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&width=2000&userId=&cache=v2",
@@ -14,7 +21,13 @@
   {
     "title": "Intro à Javascript",
     "id": "vanilla_js",
-    "tags": ["javascript", "web", "JS", "Débutant", "FR"],
+    "tags": [
+      "javascript",
+      "web",
+      "JS",
+      "Débutant",
+      "FR"
+    ],
     "description": "Voir les débuts de Javascript pour aller plus loin que HTML/CSS et transformer vos documents web en applications.",
     "url": "https://www.valentindupas.com/courses/JS",
     "thumbnail": "https://www.valentindupas.com/courses/JS/og_image.png",
@@ -26,7 +39,13 @@
   {
     "title": "Intro à Threejs",
     "id": "introduction_threejs",
-    "tags": ["web", "Intermédiaire", "3D", "Threejs", "FR"],
+    "tags": [
+      "web",
+      "Intermédiaire",
+      "3D",
+      "Threejs",
+      "FR"
+    ],
     "description": "Apprenez à importer des modèles et des textures dans vos pages web",
     "url": "https://www.valentindupas.com/courses/threejs/intro",
     "thumbnail": "https://www.valentindupas.com/courses/threejs/og_image.png",
@@ -38,7 +57,12 @@
   {
     "title": "Intro à Chataigne",
     "id": "introduction_chataigne",
-    "tags": ["chataigne", "Intermédiaire", "Interaction", "FR"],
+    "tags": [
+      "chataigne",
+      "Intermédiaire",
+      "Interaction",
+      "FR"
+    ],
     "description": "Chataigne est un outil très intéressant pour organiser vos installations numérique",
     "url": "https://www.valentindupas.com/courses/chataigne/intro",
     "thumbnail": "https://www.valentindupas.com/courses/chataigne/og_image.png",
@@ -50,7 +74,11 @@
   {
     "title": "Axidraw_sp33d",
     "id": "Axidraw_sp33d",
-    "tags": ["axidraw", "Débutant", "EN"],
+    "tags": [
+      "axidraw",
+      "Débutant",
+      "EN"
+    ],
     "description": "How to use with almost full autonomy the Axidraw with a .svg and Inkscape.",
     "url": "https://github.com/LucieMrc/Axidraw_sp33d",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Axidraw_sp33d/main/images/imageAxidraw.jpg",
@@ -62,7 +90,11 @@
   {
     "title": "Axidraw_2spi",
     "id": "Axidraw_2spi",
-    "tags": ["axidraw", "Débutant", "FR"],
+    "tags": [
+      "axidraw",
+      "Débutant",
+      "FR"
+    ],
     "description": "Comment utiliser plus ou moins en autonomie l'Axidraw avec Inkscape et un .svg",
     "url": "https://github.com/LucieMrc/Axidraw_2spi",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Axidraw_2spi/main/images/imageAxidraw.jpg",
@@ -74,7 +106,11 @@
   {
     "title": "SalleFondVert_Controller",
     "id": "SalleFondVert_Controller",
-    "tags": ["chataigne", "Débutant", "FR"],
+    "tags": [
+      "chataigne",
+      "Débutant",
+      "FR"
+    ],
     "description": "Comment utiliser plus ou moins en autonomie le controleur light de la salle fond vert qui fait tablette (OSC) > ordinateur (Chataigne) > lights (DMX).",
     "url": "https://github.com/LucieMrc/SalleFondVert_Controller",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SalleFondVert_Controller/main/images/planFeu.png",
@@ -86,7 +122,13 @@
   {
     "title": "ML - generative AI - Guide de prompt",
     "id": "ML_generative_AI_Guide_de_prompt",
-    "tags": ["ML", "IA", "text-to-image", "Débutant", "FR"],
+    "tags": [
+      "ML",
+      "IA",
+      "text-to-image",
+      "Débutant",
+      "FR"
+    ],
     "description": "Cette ressource est une petite introduction à la pratique des IAs génératives pour la production d’images.",
     "url": "https://ateliernum.notion.site/ML-generative-AI-Guide-de-prompt-754606b53e064fa9ad5ef4b5fa5785c3?pvs=4",
     "thumbnail": "https://file.notion.so/f/s/8ed0339c-11b4-414f-af06-880d4342f077/create-an-illustration-of-a-prompt-engineer-or-a-prompt-artist-this-person-should-be-sitting-at-_(1).png?id=95b7e446-3dfd-48b6-aeb6-c4f4cd21ee5b&table=block&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&expirationTimestamp=1695384000000&signature=Pri7SlydvfhkBqUg0YXrkvGcR-wtJ30Lc0yt5xLSzYU&downloadName=create-an-illustration-of-a-prompt-engineer-or-a-prompt-artist-this-person-should-be-sitting-at-+%281%29.png",
@@ -98,7 +140,12 @@
   {
     "title": "Unity's official XR / VR sample projects",
     "id": "XR_Interaction_Toolkit_Examples",
-    "tags": ["VR", "XR", "Débutant", "EN"],
+    "tags": [
+      "VR",
+      "XR",
+      "Débutant",
+      "EN"
+    ],
     "description": "A github repo containing sample scenes showcasing how to use the official XR interaction toolkit to work with VR and MR headsets.",
     "url": "https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples",
     "thumbnail": "https://1000logos.net/wp-content/uploads/2021/10/Unity-logo-500x281.jpg",
@@ -110,7 +157,13 @@
   {
     "title": "Ressources on generative AIs",
     "id": "ml_generative_ai",
-    "tags": ["Code", "Machine Learning", "Débutant", "AI", "EN"],
+    "tags": [
+      "Code",
+      "Machine Learning",
+      "Débutant",
+      "AI",
+      "EN"
+    ],
     "description": "Collection of ressources, tools and writings linked to generative AIs - centered around image and text generation.",
     "url": "https://ateliernum.notion.site/ML-generative-AI-78a1135419d04b3fa655e63a7e26d4ad",
     "thumbnail": "https://content.wolfram.com/uploads/sites/43/2023/02/hero3-chat-exposition.png",
@@ -142,7 +195,12 @@
   {
     "title": "Low tech et soft robotic",
     "id": "soft_robotics",
-    "tags": ["Electronique", "Robotique", "Débutant", "FR"],
+    "tags": [
+      "Electronique",
+      "Robotique",
+      "Débutant",
+      "FR"
+    ],
     "description": "Notes prises lors du workshop low tech et soft robotics à Stereolux en novembre 2022",
     "url": "https://ateliernum.notion.site/Workshop-Low-tech-et-soft-robotics-003139d508d9430fbd378bacd4118b01",
     "thumbnail": "https://ateliernum.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7e1c0df9-f336-46b8-85d3-520631ac501d%2FUntitled.png?id=c0cd0fdd-c52b-42e9-9ca4-3caddc33d10e&table=block&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&width=1920&userId=&cache=v2",
@@ -154,7 +212,11 @@
   {
     "title": "List of smartphone apps for connectivity",
     "id": "smartphone_connectivity",
-    "tags": ["Interaction", "Débutant", "EN"],
+    "tags": [
+      "Interaction",
+      "Débutant",
+      "EN"
+    ],
     "description": "List of application for iphones or android phones that can connect to another device to share data via wifi / bluetoth / nfc etc.",
     "url": "https://ateliernum.notion.site/Apps-OSC-Bluetooth-NFC-IOT-0652cfd3ec7a462191bb4c5149d94f0d",
     "thumbnail": "https://play-lh.googleusercontent.com/4Qk1W4sX_tImP3x6d1E4RPkhqSqasQMYr9UIlHu2zuC_3LfkE6K8u5cZjqW3XtcGVzgq=w2560-h1440",
@@ -166,7 +228,14 @@
   {
     "title": "Introduction TouchDesigner (EN)",
     "id": "introduction_td_en",
-    "tags": ["Graphisme", "Motion", "Débutant", "Tuto", "EN", "Touch Designer"],
+    "tags": [
+      "Graphisme",
+      "Motion",
+      "Débutant",
+      "Tuto",
+      "EN",
+      "Touch Designer"
+    ],
     "description": "Introduction to TouchDesigner : interface basics and common operators, plus some links to go further",
     "url": "https://github.com/LucieMrc/IntroTD",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/IntroTD/main/images/mur_augmenta.gif",
@@ -178,7 +247,14 @@
   {
     "title": "Introduction TouchDesigner (FR)",
     "id": "introduction_td_fr",
-    "tags": ["Graphisme", "Motion", "Débutant", "Tuto", "FR", "Touch Designer"],
+    "tags": [
+      "Graphisme",
+      "Motion",
+      "Débutant",
+      "Tuto",
+      "FR",
+      "Touch Designer"
+    ],
     "description": "Introduction à TouchDesigner : interface et operators de base, avec des liens pour aller plus loin",
     "url": "https://github.com/LucieMrc/IntroTD_FR",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/IntroTD/main/images/mur_augmenta.gif",
@@ -190,7 +266,14 @@
   {
     "title": "Introduction à Media Pipe dans TouchDesigner",
     "id": "introduction_mediapipe_td_en",
-    "tags": ["Graphisme", "Motion", "Débutant", "Tuto", "FR", "Touch Designer"],
+    "tags": [
+      "Graphisme",
+      "Motion",
+      "Débutant",
+      "Tuto",
+      "FR",
+      "Touch Designer"
+    ],
     "description": "Introduction à Media Pipe dans TD : tracking de mains, de visages, de squelette avec une webcam classique",
     "url": "https://github.com/LucieMrc/MediaPipe_TD_FR",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/MediaPipe_TD_EN/main/images/screen6.png",
@@ -202,7 +285,14 @@
   {
     "title": "Introduction to Media Pipe in TouchDesigner",
     "id": "introduction_mediapipe_td_fr",
-    "tags": ["Graphisme", "Motion", "Débutant", "Tuto", "EN", "Touch Designer"],
+    "tags": [
+      "Graphisme",
+      "Motion",
+      "Débutant",
+      "Tuto",
+      "EN",
+      "Touch Designer"
+    ],
     "description": "Introduction to Media Pipe inside TD : hand tracking, face tracking, skeleton tracking with a regular webcam !",
     "url": "https://github.com/LucieMrc/MediaPipe_TD_EN",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/MediaPipe_TD_EN/main/images/screen6.png",
@@ -214,7 +304,13 @@
   {
     "title": "Introduction découpe laser beambox",
     "id": "introduction_laser_fr",
-    "tags": ["Fabrication", "Machine", "Débutant", "Tuto", "FR"],
+    "tags": [
+      "Fabrication",
+      "Machine",
+      "Débutant",
+      "Tuto",
+      "FR"
+    ],
     "description": "Comment utiliser la découpe laser beambox de l'atelier numérique",
     "url": "https://github.com/b2renger/Introduction_Laser_Beambox",
     "thumbnail": "https://github.com/b2renger/Introduction_Laser_Beambox/raw/main/laser_assets/PXL_20221130_081125976.jpg",
@@ -226,7 +322,13 @@
   {
     "title": "How to use the beambox laser cutter",
     "id": "introduction_laser_en",
-    "tags": ["Fabrication", "Machine", "Débutant", "Tuto", "EN"],
+    "tags": [
+      "Fabrication",
+      "Machine",
+      "Débutant",
+      "Tuto",
+      "EN"
+    ],
     "description": "How to use our laser cutter, the beambox",
     "url": "https://github.com/b2renger/Introduction_Laser_Beambox/blob/english/README.md",
     "thumbnail": "https://github.com/b2renger/Introduction_Laser_Beambox/raw/main/laser_assets/PXL_20221130_081125976.jpg",
@@ -238,7 +340,13 @@
   {
     "title": "Introduction Arduino",
     "id": "introduction_arduino_fr",
-    "tags": ["Arduino", "Interaction", "Débutant", "Cookbook", "FR"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Débutant",
+      "Cookbook",
+      "FR"
+    ],
     "description": "Ressource arduino sous forme de cookbook : connecter des capteurs, faire bouger des choses et alumer des lumières",
     "url": "https://github.com/b2renger/Introduction_Arduino",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Arduino/master/assets/set_neopixels_rgb.gif",
@@ -250,7 +358,13 @@
   {
     "title": "Introduction Arduino",
     "id": "introduction_arduino_en",
-    "tags": ["Arduino", "Interaction", "Débutant", "Cookbook", "EN"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Débutant",
+      "Cookbook",
+      "EN"
+    ],
     "description": "Cookbook style resssource for arduino, learn how to connect sensors, move and lights up things !",
     "url": "https://github.com/b2renger/Introduction_Arduino/tree/english",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Arduino/master/assets/set_neopixels_rgb.gif",
@@ -262,7 +376,12 @@
   {
     "title": "Arduino from the ground up",
     "id": "arduino_from_the_ground_up",
-    "tags": ["Arduino", "Interaction", "Débutant", "EN"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Débutant",
+      "EN"
+    ],
     "description": "Learning the basics of arduino, connecting, programming and having fun :)",
     "url": "https://www.valentindupas.com/courses/arduino/intro",
     "thumbnail": "https://www.valentindupas.com/courses/arduino/img/uno_plugged_to_pc.png",
@@ -274,7 +393,12 @@
   {
     "title": "Les exemples Arduino de Pierre Commenge",
     "id": "pierre_commenge_arduino_examples",
-    "tags": ["Arduino", "Interaction", "Débutant", "FR"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Débutant",
+      "FR"
+    ],
     "description": "Ensembles d'exemples avec schéma et code pour utiliser les cartes arduino dans l'électronique d'interaction.",
     "url": "https://github.com/emoc/arduino_interaction",
     "thumbnail": "",
@@ -286,7 +410,14 @@
   {
     "title": "Photogramétrie avec Reality Capture",
     "id": "photogrammetry",
-    "tags": ["Ressource", "3D", "Tuto", "FR", "TouchDesigner", "Touch Designer"],
+    "tags": [
+      "Ressource",
+      "3D",
+      "Tuto",
+      "FR",
+      "TouchDesigner",
+      "Touch Designer"
+    ],
     "description": "Un tuto pour réaliser de la photogrammétrie et sortir des modèles 3D à partir de photos et manipulation dans TouchDesigner.",
     "url": "https://github.com/LucieMrc/Photogrammetrie",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/Photogrammetrie/main/images/capture6.png?token=GHSAT0AAAAAAB2ADYR5MVRGCBOM5O7H3HNIY2OLLQQ",
@@ -318,19 +449,31 @@
   {
     "title": "Utiliser la brodeuse numérique",
     "id": "brodeuse",
-    "tags": ["Débutant", "Fabrication", "Tuto", "Machine", "FR"],
+    "tags": [
+      "Débutant",
+      "Fabrication",
+      "Tuto",
+      "Machine",
+      "FR"
+    ],
     "description": "Utiliser la brodeuse numérique",
     "url": "https://github.com/LucieMrc/BrodeuseNum_2spi",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
     "last_update": "24/05/22",
     "language": "fr",
-    "type": "ressource",
+    "type": "resource",
     "authors": "Lucie Mrc"
   },
   {
     "title": "Use the embroidery machine",
     "id": "embroidery",
-    "tags": ["Débutant", "Fabrication", "Tuto", "Machine", "EN"],
+    "tags": [
+      "Débutant",
+      "Fabrication",
+      "Tuto",
+      "Machine",
+      "EN"
+    ],
     "description": "How to use the embroidery machine !",
     "url": "https://github.com/LucieMrc/EmbroideryMachine_sp33d",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/BrodeuseNum_2spi/main/images/img0_13.jpg",
@@ -342,7 +485,14 @@
   {
     "title": "Introduction à la Réalité Augmentée",
     "id": "introduction_A-Frame",
-    "tags": ["HTML", "JS", "A-Frame", "Interaction", "Débutant", "EN"],
+    "tags": [
+      "HTML",
+      "JS",
+      "A-Frame",
+      "Interaction",
+      "Débutant",
+      "EN"
+    ],
     "description": "Getting started with web based AR using A-Frame for cross platforme WebXR",
     "url": "https://github.com/b2renger/Introduction_A-frame#introduction_a-frame",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_A-frame/main/assets/snowAR.gif",
@@ -394,7 +544,12 @@
   {
     "title": "How to use the sound studio",
     "id": "sound_recording_sp33d",
-    "tags": ["Sound", "Tuto", "Débutant", "EN"],
+    "tags": [
+      "Sound",
+      "Tuto",
+      "Débutant",
+      "EN"
+    ],
     "description": "How to get started in the studio and record some sound for voice over, etc.",
     "url": "https://github.com/LucieMrc/SoundRecording_sp33d",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SoundRecording_sp33d/762d88fbcefb19f3b558cc856c927e615cb0eb7d/images/img3.jpg  ",
@@ -406,7 +561,12 @@
   {
     "title": "Enregistrer dans le studio son",
     "id": "sound_recording_2spi",
-    "tags": ["Sound", "Tuto", "Débutant", "FR"],
+    "tags": [
+      "Sound",
+      "Tuto",
+      "Débutant",
+      "FR"
+    ],
     "description": "Comment s'installer et démarrer un enregistrement dans le studio son",
     "url": "https://github.com/LucieMrc/Prise2son_2spi",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/SoundRecording_sp33d/762d88fbcefb19f3b558cc856c927e615cb0eb7d/images/img3.jpg  ",
@@ -418,7 +578,12 @@
   {
     "title": "Video Mapping et Madmapper",
     "id": "Madmapper_2spi",
-    "tags": ["Mapping", "Madmapper", "Débutant", "FR"],
+    "tags": [
+      "Mapping",
+      "Madmapper",
+      "Débutant",
+      "FR"
+    ],
     "description": "Une introduction à madmapper pour réaliser du video mapping",
     "url": "https://github.com/LucieMrc/Madmapper_2spi",
     "thumbnail": "https://github.com/LucieMrc/Madmapper_2spi/raw/main/images/screen1.png",
@@ -428,9 +593,15 @@
     "authors": "Lucie Mrc"
   },
   {
-  "title": "Communication entre TouchDesigner et Arduino",
+    "title": "Communication entre TouchDesigner et Arduino",
     "id": "TD_Arduino_FR",
-  "tags": ["Touch Designer", "Arduino", "Interaction", "Débutant", "FR"],
+    "tags": [
+      "Touch Designer",
+      "Arduino",
+      "Interaction",
+      "Débutant",
+      "FR"
+    ],
     "description": "Créer une communication entre Touchdesigner et Arduino",
     "url": "https://github.com/LucieMrc/TD_Arduino_FR",
     "thumbnail": "https://github.com/LucieMrc/TD_Arduino_FR/raw/main/images/screen4.png",
@@ -440,9 +611,15 @@
     "authors": "Lucie Mrc"
   },
   {
-  "title": "Communication between TouchDesigner and Arduino",
+    "title": "Communication between TouchDesigner and Arduino",
     "id": "TD_Arduino_EN",
-  "tags": ["Touch Designer", "Arduino", "Interaction", "Débutant", "EN"],
+    "tags": [
+      "Touch Designer",
+      "Arduino",
+      "Interaction",
+      "Débutant",
+      "EN"
+    ],
     "description": "Create a communication between Touchdesigner and Arduino",
     "url": "https://github.com/LucieMrc/TD_Arduino_EN",
     "thumbnail": "https://github.com/LucieMrc/TD_Arduino_EN/raw/main/images/screen4.png",
@@ -454,7 +631,12 @@
   {
     "title": "TouchDesigner et Kantan Mapper",
     "id": "TD_KantanMapper",
-    "tags": ["Mapping", "Touch Designer", "Débutant", "EN"],
+    "tags": [
+      "Mapping",
+      "Touch Designer",
+      "Débutant",
+      "EN"
+    ],
     "description": "An introduction to use the video mapping tool in TouchDesigner",
     "url": "https://github.com/LucieMrc/TD_KantanMapper",
     "thumbnail": "https://github.com/LucieMrc/TD_KantanMapper/raw/main/images/screen10.png",
@@ -466,7 +648,11 @@
   {
     "title": "Arduino et animation leds",
     "id": "arduino_led_animation",
-    "tags": ["Electronique", "Débutant", "FR"],
+    "tags": [
+      "Electronique",
+      "Débutant",
+      "FR"
+    ],
     "description": "Introduction à arduino via l'animation de leds; centrée sur les couleurs et l'écriture d'un scénario lumière",
     "url": "https://github.com/b2renger/arduino_led_animation",
     "thumbnail": "https://github.com/b2renger/arduino_led_animation/raw/main/assets/exemple_05_noise.gif",
@@ -478,7 +664,14 @@
   {
     "title": "Augmenta et TouchDesigner",
     "id": "TD_Augmenta",
-    "tags": ["Tracking", "Interaction", "Mapping", "Intermédiaire", "EN", "Touch Designer"],
+    "tags": [
+      "Tracking",
+      "Interaction",
+      "Mapping",
+      "Intermédiaire",
+      "EN",
+      "Touch Designer"
+    ],
     "description": "Introduction to the Augmenta technology to make interactive mapping with person tracking",
     "url": "https://github.com/LucieMrc/TD_Augmenta",
     "thumbnail": "https://raw.githubusercontent.com/LucieMrc/TD_Augmenta/ef925a80306f750ed75f5e74beecfce7a732263e/images/screen5.png",
@@ -490,7 +683,13 @@
   {
     "title": "Introduction Photon",
     "id": "introduction_photon",
-    "tags": ["Electronique", "Interaction", "IOT", "Intermédiaire", "FR"],
+    "tags": [
+      "Electronique",
+      "Interaction",
+      "IOT",
+      "Intermédiaire",
+      "FR"
+    ],
     "description": "Introduction à la plateforrme photon pour l'expérimentation IoT ces cartes permettent de se connecter en wifi et d'avoir accès à un cloud dédié",
     "url": "https://github.com/emoc/photon_introduction",
     "thumbnail": "https://raw.githubusercontent.com/emoc/photon_introduction/master/assets/anims/photon_listening_mode.gif",
@@ -502,7 +701,13 @@
   {
     "title": "Introduction Unity",
     "id": "introduction_unity",
-    "tags": ["Unity", "Game", "Interaction", "Débutant", "FR"],
+    "tags": [
+      "Unity",
+      "Game",
+      "Interaction",
+      "Débutant",
+      "FR"
+    ],
     "description": "Introduction à Unity sous la forme d'un projet visant à créer un instrument musical et visuel. Utilisant la physique et des scripts pour générer du son..",
     "url": "https://github.com/MartinCailleau/SoundTower",
     "thumbnail": "https://raw.githubusercontent.com/MartinCailleau/SoundTower/master/img/image12.gif",
@@ -514,7 +719,13 @@
   {
     "title": "Introduction TouchDesigner",
     "id": "introduction_touch_designer",
-    "tags": ["Touch Designer", "Interaction", "Motion", "Débutant", "FR"],
+    "tags": [
+      "Touch Designer",
+      "Interaction",
+      "Motion",
+      "Débutant",
+      "FR"
+    ],
     "description": "Introduction à TouchDesigner sous la forme d'une playlist de vidéos.",
     "url": "https://github.com/benjarier/Introduction_TouchDesigner",
     "thumbnail": "https://raw.githubusercontent.com/benjarier/Introduction_TouchDesigner/master/assets/TD1.gif",
@@ -526,7 +737,13 @@
   {
     "title": "Introduction à p5js",
     "id": "introduction_p5js",
-    "tags": ["P5js", "Creative Coding", "Web", "Débutant", "FR"],
+    "tags": [
+      "P5js",
+      "Creative Coding",
+      "Web",
+      "Débutant",
+      "FR"
+    ],
     "description": "Une découverte de p5js allant du dessin à la souris à la 3D, en passant par l'apprentissage de la programmation objet, des websockets ainsi que des exemples audio assez avancés et tout cela dans votre navigateur !",
     "url": "https://github.com/b2renger/Introduction_p5js",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_p5js/master/assets/01_dessiner_05.png",
@@ -538,7 +755,12 @@
   {
     "title": "Introduction à Pure-Data",
     "id": "introduction_pure_pata",
-    "tags": ["Pure-Data", "Sound Design", "Débutant", "FR"],
+    "tags": [
+      "Pure-Data",
+      "Sound Design",
+      "Débutant",
+      "FR"
+    ],
     "description": "Une introduction à Pure-Data réalisée avec Pure-data. Pure-Data est le couteau suisse de l'audio temps réel et plus aussi.",
     "url": "https://github.com/b2renger/Introduction_Pure_Data",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_Pure_Data/master/assets/image-02.png",
@@ -711,7 +933,13 @@
   {
     "title": "Workshop Processing community day - Processing",
     "id": "workshop_processing_PCD2019",
-    "tags": ["Processing", "Creative Coding", "Interaction", "Débutant", "FR"],
+    "tags": [
+      "Processing",
+      "Creative Coding",
+      "Interaction",
+      "Débutant",
+      "FR"
+    ],
     "description": "Un workshop d'une demie-journée donné à Stereolux par des étudiants pour découvrir le code créatif",
     "url": "https://github.com/AtelierNum/workshop_processing_PCD2019",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_processing_PCD2019/master/assets/rosace2.png",
@@ -723,7 +951,14 @@
   {
     "title": "Workshop Processing community day - P5js",
     "id": "workshop_p5js_PCD2019",
-    "tags": ["P5js", "Creative Coding", "Interaction", "Débutant", "Web", "FR"],
+    "tags": [
+      "P5js",
+      "Creative Coding",
+      "Interaction",
+      "Débutant",
+      "Web",
+      "FR"
+    ],
     "description": "Un workshop d'une demie-journée donné à Stereolux par des étudiants pour découvrir le code créatif",
     "url": "https://github.com/AtelierNum/workshop_p5js_PCD2019",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_p5js_PCD2019/master/Birds.png",
@@ -735,7 +970,11 @@
   {
     "title": "Sound Design references et pratiques",
     "id": "sound_design_references_practices",
-    "tags": ["Sound Design", "Theorie", "FR"],
+    "tags": [
+      "Sound Design",
+      "Theorie",
+      "FR"
+    ],
     "description": "Quelques références sur le sound design, l'acoustique, l'audition, les techniques audio, références historiques",
     "url": "https://github.com/b2renger/SoundDesign-references-practices",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/SoundDesign-references-practices/master/documents/Designingsound.org_studio-disney.jpg",
@@ -747,7 +986,13 @@
   {
     "title": "Game From Scratch",
     "id": "processing_physics_game_workshop",
-    "tags": ["Processing", "Interaction", "Débutant", "Game", "FR"],
+    "tags": [
+      "Processing",
+      "Interaction",
+      "Débutant",
+      "Game",
+      "FR"
+    ],
     "description": "Une introduction à la programation orientée objet avec processing. L'objectif est de réaliser en 3-4 jours un jeu de bubble catch from scratch.",
     "url": "https://github.com/b2renger/processing_physics_game_workshop",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/processing_physics_game_workshop/master/physics_game_workshop.gif",
@@ -778,7 +1023,12 @@
   {
     "title": "Workshop Code Créatif 2021",
     "id": "workshop_code_creatif_2021",
-    "tags": ["Processing", "Interaction", "Creative Coding", "FR"],
+    "tags": [
+      "Processing",
+      "Interaction",
+      "Creative Coding",
+      "FR"
+    ],
     "description": "code et documentation du workshop code créatif @lecolededesign. Projets réalisé par des étudiants en deuxième année en bacholor interaction design.",
     "url": "https://github.com/AtelierNum/workshop_code_creatif_2021",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_2021/main/FeelTheUniverse/output.gif",
@@ -790,7 +1040,11 @@
   {
     "title": "Workshop Game VR 2020",
     "id": "workshop_game_VR_2020",
-    "tags": ["Unity", "Game", "FR"],
+    "tags": [
+      "Unity",
+      "Game",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiant en troisième année de game expérience design @lecolededesign. Workshop dédié à la réalité virtuelle",
     "url": "https://github.com/AtelierNum/workshop_game_VR_2020",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_game_VR_2020/main/Rendu_Groupe2_Screen_VideoNoire.png",
@@ -802,7 +1056,12 @@
   {
     "title": "Workshop Lumière 2020",
     "id": "workshop_diorama_lumiere_2020",
-    "tags": ["Arduino", "Scénographie", "Maquettage", "FR"],
+    "tags": [
+      "Arduino",
+      "Scénographie",
+      "Maquettage",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiant en deuxième année d'espaces scénographiés @lecolededesign. Workshop de vidéo mapping.",
     "url": "https://github.com/AtelierNum/workshop_diorama_lumiere_2020",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_diorama_lumiere_2020/main/01_LaForetMysterieuse_Groupe01/Photos_Videos/05.jpg",
@@ -814,7 +1073,12 @@
   {
     "title": "Workshop Mapping Cinétique 2020",
     "id": "workshop_mapping_cinetique_2020",
-    "tags": ["Arduino", "Motion", "Mapping", "FR"],
+    "tags": [
+      "Arduino",
+      "Motion",
+      "Mapping",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiant en troisième année de motion design @lecolededesign. Workshop de vidéo mapping.",
     "url": "https://github.com/AtelierNum/workshop_code_creatif_2021",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_mapping_cinetique_2020/main/Nebuleuse/teaser.gif",
@@ -826,7 +1090,11 @@
   {
     "title": "Projet motifs d'expression 2020",
     "id": "projet_motifs_d_expression_2020",
-    "tags": ["Arduino", "Motion", "FR"],
+    "tags": [
+      "Arduino",
+      "Motion",
+      "FR"
+    ],
     "description": "Projet réalisé par les étudiant en troisième année de motion design @lecolededesign. Introduction au code et aux mécanismes permettant le mouvement tangible.",
     "url": "https://github.com/AtelierNum/projet_motifs_d_expression_2020",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_motifs_d_expression_2020/main/Anaelle_et_Pierre/gif.gif",
@@ -838,7 +1106,11 @@
   {
     "title": "Workshop game from scratch 2020",
     "id": "workshop_gamefromscratch_2020",
-    "tags": ["Processing", "Game", "FR"],
+    "tags": [
+      "Processing",
+      "Game",
+      "FR"
+    ],
     "description": "Projet réalisé par les étudiant en deuxième année de game design @lecolededesign. Introduction au code.",
     "url": "https://github.com/AtelierNum/workshop_gamefromscratch_2020",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2020/master/Amelie_Conoir/gif.gif",
@@ -850,7 +1122,11 @@
   {
     "title": "Projet Yearbook 2020",
     "id": "projet_yearbook_2020",
-    "tags": ["P5js", "Graphisme", "FR"],
+    "tags": [
+      "P5js",
+      "Graphisme",
+      "FR"
+    ],
     "description": "En utilisant p5js était demandé de produire un portrait d'eux même et une image libre en manipulant les pixels d'une image source.",
     "url": "https://github.com/AtelierNum/projet_Yearbook_2020",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_Yearbook_2020/master/assets/rendus/Myriam_portrait.png",
@@ -862,7 +1138,12 @@
   {
     "title": "Workshop Intallations Interactives 2020",
     "id": "workshop_installation_interactive_2020",
-    "tags": ["Touch Designer", "Interaction", "Scénographie", "FR"],
+    "tags": [
+      "Touch Designer",
+      "Interaction",
+      "Scénographie",
+      "FR"
+    ],
     "description": "Workshop orienté sur l'apprentissage de Touch Designer @lecolededesign. L'objectif est de concevoir en 4 jours, une installation interactive, d'imaginer ses usages et sa scénographie et de prototyper le rendu visuel. Code et documentation. ",
     "url": "https://github.com/AtelierNum/workshop_installation_interactive_2020",
     "thumbnail": "https://github.com/AtelierNum/workshop_installation_interactive_2020/raw/master/Scratch_massive/scratch_massive.gif",
@@ -874,7 +1155,14 @@
   {
     "title": "Workshop ALT-CTRL 2019-2020",
     "id": "workshop_alt_ctrl_1920",
-    "tags": ["Arduino", "Interaction", "Game", "Unity", "Processing", "FR"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Game",
+      "Unity",
+      "Processing",
+      "FR"
+    ],
     "description": "Workshop transdisciplinaire entre filières Game et Interaction @lecolededesign. L'objectif est de concevoir en 5 jours un controleur alternatif et un jeu d'arcade de l'idéation à la réalisation ! Code et documentation. ",
     "url": "https://github.com/AtelierNum/workshop_alt_ctrl_1920",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1920/master/Shaolin_Dragon/gif.gif",
@@ -886,7 +1174,12 @@
   {
     "title": "Projet jeux électroniques 2019-2020",
     "id": "projet_jeu_electronique_1920",
-    "tags": ["Arduino", "Interaction", "Game", "FR"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Game",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiants en troisième année de design d'interaction @lecolededesign. Code et documentation. ",
     "url": "https://github.com/AtelierNum/projet_jeu_electronique_1920",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1920/master/Witching_Hour/gif.gif",
@@ -898,7 +1191,12 @@
   {
     "title": "Workshop Code Créatif 2020",
     "id": "workshop_code_creatif_1920",
-    "tags": ["Processing", "Interaction", "Creative Coding", "FR"],
+    "tags": [
+      "Processing",
+      "Interaction",
+      "Creative Coding",
+      "FR"
+    ],
     "description": "code et documentation du workshop code créatif @lecolededesign. Projets réalisé par des étudiants en deuxième année en bacholor interaction design.",
     "url": "https://github.com/AtelierNum/workshop_code_creatif_1920",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1920/master/Groupe6_Nuance/gif.gif",
@@ -910,7 +1208,13 @@
   {
     "title": "Projet gestes de l'ennui 2019-2020",
     "id": "projet_gestes_de_l_ennui_1920",
-    "tags": ["P5js", "Graphisme", "Risographie", "Arduino", "FR"],
+    "tags": [
+      "P5js",
+      "Graphisme",
+      "Risographie",
+      "Arduino",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiants en 3ème année de design graphique @lecolededesign.",
     "url": "https://github.com/AtelierNum/projet_gestes_de_l_ennui_1920",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_gestes_de_l_ennui_1920/master/CORNIER_VICTOR_KAAN_NICOLAS/screen.png",
@@ -922,7 +1226,13 @@
   {
     "title": "Projet patatap 2019-2020",
     "id": "projet_patatap_1920",
-    "tags": ["P5js", "Creative Coding", "Interaction", "Motion", "FR"],
+    "tags": [
+      "P5js",
+      "Creative Coding",
+      "Interaction",
+      "Motion",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiants en deuxième année de design d'interaction @lecolededesign.",
     "url": "https://github.com/AtelierNum/projet_patatap_1920",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1920/master/Lison_Guignard/gif.gif",
@@ -934,7 +1244,11 @@
   {
     "title": "Workshop game from scratch 2019",
     "id": "workshop_gamefromscratch_2019",
-    "tags": ["Processing", "Game", "FR"],
+    "tags": [
+      "Processing",
+      "Game",
+      "FR"
+    ],
     "description": "Projet réalisé par les étudiant en deuxième année de game design @lecolededesign. Introduction au code.",
     "url": "https://github.com/AtelierNum/workshop_gamefromscratch_2019",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2019/master/Steeve_Dossou/gif.gif",
@@ -946,7 +1260,13 @@
   {
     "title": "Projet motifs génératifs 2019",
     "id": "projet_generative-patterns_2019",
-    "tags": ["P5js", "Creative Coding", "Graphisme", "Interaction", "FR"],
+    "tags": [
+      "P5js",
+      "Creative Coding",
+      "Graphisme",
+      "Interaction",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiants en 3ème année de design graphique @lecolededesign.",
     "url": "https://github.com/AtelierNum/projet_generative-patterns_2019",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_generative-patterns_2019/master/Gillet_Pauline/GIF.gif",
@@ -958,7 +1278,12 @@
   {
     "title": "Workshop Code Créatif 2019",
     "id": "workshop_code_creatif_1819",
-    "tags": ["Processing", "Creative Coding", "Interaction", "FR"],
+    "tags": [
+      "Processing",
+      "Creative Coding",
+      "Interaction",
+      "FR"
+    ],
     "description": "code et documentation du workshop code créatif @lecolededesign. Projets réalisé par des étudiants en deuxième année en bacholor interaction design.",
     "url": "https://github.com/AtelierNum/workshop_code_creatif_1819",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_code_creatif_1819/master/Void/VOID.gif",
@@ -970,7 +1295,13 @@
   {
     "title": "Workshop ALT-CTRL 2018-2019",
     "id": "workshop_alt-ctrl_1819",
-    "tags": ["Arduino", "Interaction", "Game", "Processing", "FR"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Game",
+      "Processing",
+      "FR"
+    ],
     "description": "Workshop transdisciplinaire entre filières Game et Interaction @lecolededesign. L'objetctif est de concevoir en 5 jour un controleur alternatif et un jeu d'arcade de l'idéation à la réalisation ! Code et documentation. ",
     "url": "https://github.com/AtelierNum/workshop_alt_ctrl_1819",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_alt_ctrl_1819/master/Splateau/gif.gif",
@@ -982,7 +1313,12 @@
   {
     "title": "Projet jeux électroniques 2018-2019",
     "id": "projet_jeu_electronique_1819",
-    "tags": ["Arduino", "Interaction", "Game", "FR"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Game",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiants en troisième année de design d'interaction @lecolededesign. Code et documentation. ",
     "url": "https://github.com/AtelierNum/projet_jeu_electronique_1819",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_jeu_electronique_1819/master/Punchers/images/PUNCHERS.gif",
@@ -994,7 +1330,13 @@
   {
     "title": "Projet patatap 2018-2019",
     "id": "projet_patatap_1819",
-    "tags": ["P5js", "Creative Coding", "Motion", "Interaction", "FR"],
+    "tags": [
+      "P5js",
+      "Creative Coding",
+      "Motion",
+      "Interaction",
+      "FR"
+    ],
     "description": "Projets réalisés par les étudiants en deuxième année de design d'interaction @lecolededesign.",
     "url": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1819/master/README.md",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_patatap_1819/master/Heurtebise_Simon/patatap.gif",
@@ -1006,7 +1348,12 @@
   {
     "title": "Dis-information signal 2018",
     "id": "projet_dis-information_signals_1819",
-    "tags": ["Arduino", "Interaction", "Graphisme", "FR"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Graphisme",
+      "FR"
+    ],
     "description": "Projet réalisé par les étudiant en troisième année de design graphique @lecolededesign. Introduction au code et à arduino.",
     "url": "https://github.com/AtelierNum/projet_patatap_1819",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/projet_dis-information_signals_1819/master/Papy-raleur/papy-raleur.gif",
@@ -1018,7 +1365,11 @@
   {
     "title": "Workshop game from scratch 2018",
     "id": "workshop_gamefromscratch_2018",
-    "tags": ["Processing", "Game", "FR"],
+    "tags": [
+      "Processing",
+      "Game",
+      "FR"
+    ],
     "description": "Projet réalisé par les étudiant en deuxième année de game design @lecolededesign. Introduction au code.",
     "url": "https://github.com/AtelierNum/workshop_gamefromscratch_2018",
     "thumbnail": "https://raw.githubusercontent.com/AtelierNum/workshop_gamefromscratch_2018/master/assets/gifs/gamefromscratch_Riwan_Majidate.gif",
@@ -1030,7 +1381,11 @@
   {
     "title": "Ateliernum's code templates",
     "id": "templates",
-    "tags": ["Ressource", "Code", "EN"],
+    "tags": [
+      "Ressource",
+      "Code",
+      "EN"
+    ],
     "description": "Our templates to get started with several tasks",
     "url": "https://github.com/AtelierNum/templates",
     "thumbnail": "https://avatars.githubusercontent.com/u/43267915?s=400&u=b10be47a0c3fea1ecc3c01eac901d87c82c3e342&v=4",
@@ -1041,7 +1396,13 @@
   {
     "title": "TD templates",
     "id": "td_templates",
-    "tags": ["Ressource", "Creative Coding", "EN", "Touch Designer", "TouchDesigner"],
+    "tags": [
+      "Ressource",
+      "Creative Coding",
+      "EN",
+      "Touch Designer",
+      "TouchDesigner"
+    ],
     "description": "A bunch of templates for Touch Designer by Mael Pinard aka dr pinarson",
     "url": "https://github.com/pinarson/TD",
     "thumbnail": "https://raw.githubusercontent.com/pinarson/TD/master/POETIC_PARTICLE/Capture.PNG",
@@ -1052,7 +1413,12 @@
   {
     "title": "Replit Curriculum",
     "id": "replit_curriculum",
-    "tags": ["Ressource", "Code", "Débutant", "EN"],
+    "tags": [
+      "Ressource",
+      "Code",
+      "Débutant",
+      "EN"
+    ],
     "description": "Coding ressources for many langages !",
     "url": "https://replit.com/curriculum",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/Introduction_A-frame/main/assets/replit.png",
@@ -1101,7 +1467,14 @@
   {
     "title": "Noise in creative coding",
     "id": "noise_in_creative_coding",
-    "tags": ["Ressource", "Creative Coding", "Code", "Web", "Débutant", "EN"],
+    "tags": [
+      "Ressource",
+      "Creative Coding",
+      "Code",
+      "Web",
+      "Débutant",
+      "EN"
+    ],
     "description": "In depth explanation about noise",
     "url": "https://varun.ca/noise/",
     "thumbnail": "https://raw.githubusercontent.com/b2renger/p5js-designing-interactive-patterns/master/images/joydivision.jpg",
@@ -1112,7 +1485,13 @@
   {
     "title": "Scan the world",
     "id": "myminifactory_scan_the_world",
-    "tags": ["Ressource", "3D", "Fabrication", "Débutant", "EN"],
+    "tags": [
+      "Ressource",
+      "3D",
+      "Fabrication",
+      "Débutant",
+      "EN"
+    ],
     "description": "3D models of sculptures and cultural artefacts",
     "url": "https://www.myminifactory.com/scantheworld/",
     "thumbnail": "https://cdn.myminifactory.com/assets/object-assets/5a34065096e57/images/230X230-head-of-david.jpg",
@@ -1123,7 +1502,13 @@
   {
     "title": "Creative coding algorithms & techniques",
     "id": "creative_coding_algorithms",
-    "tags": ["Ressource", "Code", "Creative Coding", "Débutant", "EN"],
+    "tags": [
+      "Ressource",
+      "Code",
+      "Creative Coding",
+      "Débutant",
+      "EN"
+    ],
     "description": "Encyclopedia of algorithms",
     "url": "https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b",
     "thumbnail": "https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc555e08b-b0ab-4175-8220-df4d5fdaf44f%2F42c37c87011633.5daaf6257b791.png?table=block&id=c5550ef2-f757-4126-bdc7-7b09ed76651b&width=3840&userId=&cache=v2",
@@ -1155,7 +1540,14 @@
   {
     "title": "Face Tracking for creative coding",
     "id": "face_tracking_p5js",
-    "tags": ["Ressource", "Code", "Web", "P5js", "Intermédiaire", "EN"],
+    "tags": [
+      "Ressource",
+      "Code",
+      "Web",
+      "P5js",
+      "Intermédiaire",
+      "EN"
+    ],
     "description": "How to do face tracking, emotion recognition with web technologies",
     "url": "https://github.com/stc/face-tracking-p5js",
     "thumbnail": "https://user-images.githubusercontent.com/270431/40185787-c0e67830-59f3-11e8-9b94-5e619b195f57.jpg",
@@ -1166,7 +1558,12 @@
   {
     "title": "Template Maker",
     "id": "template_maker",
-    "tags": ["Outils", "Fabrication", "Débutant", "EN"],
+    "tags": [
+      "Outils",
+      "Fabrication",
+      "Débutant",
+      "EN"
+    ],
     "description": "Design patterns to create boxes in carboard or wood with a laser cutter or not...",
     "url": "https://www.templatemaker.nl/en/",
     "thumbnail": "https://www.templatemaker.nl/assets/images/example/boxlid.jpeg",
@@ -1177,7 +1574,13 @@
   {
     "title": "Getting started with github pages",
     "id": "gh-pages-how-tp",
-    "tags": ["Ressources", "Code", "Web", "Intermédiaire", "EN"],
+    "tags": [
+      "Ressources",
+      "Code",
+      "Web",
+      "Intermédiaire",
+      "EN"
+    ],
     "description": "How to configure gh-pages to host free static pages",
     "url": "https://guides.github.com/features/pages/",
     "thumbnail": "https://docs.github.com/assets/cb-49451/mw-1000/images/help/repository/repo-create.webp",
@@ -1188,7 +1591,13 @@
   {
     "title": "Is it Code ? ",
     "id": "is it code",
-    "tags": ["Ressources", "Code", "Débutant", "EN", "FR"],
+    "tags": [
+      "Ressources",
+      "Code",
+      "Débutant",
+      "EN",
+      "FR"
+    ],
     "description": "Ressources for creative coding and website creation",
     "url": "https://www.isitcode.net/%C3%A0-propos",
     "thumbnail": "https://blot.im/cdn/blog_6c2a597018924596b0e0e6ba6b3b8724/_image_cache/a47e4b9d-e233-485d-84ed-6a650666f9ec.png",
@@ -1199,7 +1608,12 @@
   {
     "title": "Fruition ",
     "id": "fruition",
-    "tags": ["Ressources", "Web", "Débutant", "EN"],
+    "tags": [
+      "Ressources",
+      "Web",
+      "Débutant",
+      "EN"
+    ],
     "description": "Build websites with Notion and no code !",
     "url": "https://fruitionsite.com/",
     "thumbnail": "https://fruitionsite.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4c44874f-e60d-4d55-a6cd-6c9e0fdb6c6d%2FIcon.png?table=block&id=771ef386-5724-4c27-b938-9734a9cbff44&width=250&userId=&cache=v2",
@@ -1210,7 +1624,12 @@
   {
     "title": "Last Minute Engineers",
     "id": "Last_minute_engineers",
-    "tags": ["Ressources", "Electronique", "Avancé", "EN"],
+    "tags": [
+      "Ressources",
+      "Electronique",
+      "Avancé",
+      "EN"
+    ],
     "description": "Electronics projects for arduino and esp32 boards",
     "url": "https://lastminuteengineers.com/",
     "thumbnail": "https://lastminuteengineers.com/wp-content/uploads/2019/12/Project-Interfacing-Passive-Infrared-PIR-Sensor-with-Arduino-Uno.jpg",
@@ -1221,7 +1640,12 @@
   {
     "title": "Pose Animator",
     "id": "pose_animator",
-    "tags": ["Outil", "Machine Learning", "Débutant", "EN"],
+    "tags": [
+      "Outil",
+      "Machine Learning",
+      "Débutant",
+      "EN"
+    ],
     "description": "Pose Animator takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. It borrows the idea of skeleton-based animation from computer graphics and applies it to vector characters. Check out the demo !",
     "url": "https://github.com/yemount/pose-animator/",
     "thumbnail": "https://github.com/yemount/pose-animator/raw/master/resources/gifs/avatar-new-full-body.gif?raw=true",
@@ -1232,7 +1656,12 @@
   {
     "title": "The teachable machine",
     "id": "the_teachable_machine",
-    "tags": ["Outil", "Machine Learning", "Débutant", "EN"],
+    "tags": [
+      "Outil",
+      "Machine Learning",
+      "Débutant",
+      "EN"
+    ],
     "description": "Train a computer to recognize your own images, sounds, & poses.",
     "url": "https://teachablemachine.withgoogle.com/",
     "thumbnail": "https://teachablemachine.withgoogle.com/assets/img/contentpage/home/teach-images.png",
@@ -1243,7 +1672,13 @@
   {
     "title": "Processing with AI",
     "id": "processing_with_ai",
-    "tags": ["Code", "Machine Learning", "Débutant", "Tuto", "EN"],
+    "tags": [
+      "Code",
+      "Machine Learning",
+      "Débutant",
+      "Tuto",
+      "EN"
+    ],
     "description": "Un module de découverte de l'intelligence artificielle enseigné à l'EM Lyon. Natural Language Processing, Computer Vision, Chatbot, Classigication etc.",
     "url": "https://makerslab.em-lyon.com/pwai/",
     "thumbnail": "https://1.cms.s81c.com/sites/default/files/2019-12-23/2019_12_16_ProductPage_ABV_NLU_LeadSpace%20%281%29.jpg",
@@ -1274,7 +1709,14 @@
   {
     "title": "ThreeJS + ARJS examples",
     "id": "ar_examples",
-    "tags": ["Web", "AR", "Threejs", "Avancé", "Exemples", "EN"],
+    "tags": [
+      "Web",
+      "AR",
+      "Threejs",
+      "Avancé",
+      "Exemples",
+      "EN"
+    ],
     "description": "Une collection d'exemples la réalité augmentée avec des technologies web !",
     "url": "https://stemkoski.github.io/AR-Examples/",
     "thumbnail": "https://stemkoski.github.io/AR-Examples/images/demo/hole-box.png",
@@ -1285,7 +1727,12 @@
   {
     "title": "Prototyping with fabrication",
     "id": "prototypin_with_fab",
-    "tags": ["Fabrication", "Tuto", "Débutant", "EN"],
+    "tags": [
+      "Fabrication",
+      "Tuto",
+      "Débutant",
+      "EN"
+    ],
     "description": "Un cours d'introduction aux techniques de prototypage pour la fabrication numérique, via le maker lab de l'EM Lyon.",
     "url": "https://prototyping-with-fab.gitlab.io/",
     "thumbnail": "http://www.lofirobot.com/wp-content/uploads/pojazd-1.jpg",
@@ -1296,7 +1743,14 @@
   {
     "title": "Règle des bases de l'ux design",
     "id": "regles_ux_desig",
-    "tags": ["Interaction", "UX/UI", "Web", "Débutant", "Theorie", "FR"],
+    "tags": [
+      "Interaction",
+      "UX/UI",
+      "Web",
+      "Débutant",
+      "Theorie",
+      "FR"
+    ],
     "description": "Article théorique présentant quelques règle de base de l'UX design.",
     "url": "https://www.projet.io/blog/regles-de-base-de-l-ux-design-user-experience",
     "thumbnail": "https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/1951763/547664_145051.png",
@@ -1327,7 +1781,14 @@
   {
     "title": "Blender Guru",
     "id": "blender_guru",
-    "tags": ["Blender", "3D", "Débutant", "Intermédiaire", "Tuto", "EN"],
+    "tags": [
+      "Blender",
+      "3D",
+      "Débutant",
+      "Intermédiaire",
+      "Tuto",
+      "EN"
+    ],
     "description": "Tutorials and ressources on how to get started with 3D modelling in Blender",
     "url": "https://www.blenderguru.com/tutorials",
     "thumbnail": "https://static1.squarespace.com/static/58586fa5ebbd1a60e7d76d3e/58ca3c883f4058faf23124b5/5e6f1b2077c35d4616357582/1584339799451/maxresdefault+%287%29.jpg?format=1500w",
@@ -1338,7 +1799,14 @@
   {
     "title": "Creative Shrimp",
     "id": "creative shrimp",
-    "tags": ["Blender", "3D", "Débutant", "Intermédiaire", "Tuto", "EN"],
+    "tags": [
+      "Blender",
+      "3D",
+      "Débutant",
+      "Intermédiaire",
+      "Tuto",
+      "EN"
+    ],
     "description": "Tutorials and ressources on how to get started with 3D modelling in Blender",
     "url": "https://www.creativeshrimp.com/tutorials",
     "thumbnail": "https://www.creativeshrimp.com/wp-content/uploads/2018/11/CreativeShrimp-logo-small.png",
@@ -1349,7 +1817,12 @@
   {
     "title": "Happy Codding",
     "id": "happy_codding",
-    "tags": ["Interaction", "Tuto", "Débutant", "EN"],
+    "tags": [
+      "Interaction",
+      "Tuto",
+      "Débutant",
+      "EN"
+    ],
     "description": "Tutorials and ressources on how to get started with coding in java (processing), js etc.",
     "url": "https://happycoding.io/",
     "thumbnail": "https://happycoding.io/tutorials/java-server/images/client-server-7.png",
@@ -1360,7 +1833,13 @@
   {
     "title": "Picular",
     "id": "picular",
-    "tags": ["Graphisme", "Theorie", "Outil", "Couleur", "EN"],
+    "tags": [
+      "Graphisme",
+      "Theorie",
+      "Outil",
+      "Couleur",
+      "EN"
+    ],
     "description": "Like google but for colors",
     "url": "https://picular.co/",
     "thumbnail": "",
@@ -1371,7 +1850,13 @@
   {
     "title": "Learning Synths",
     "id": "learning_synths",
-    "tags": ["Sound Design", "Theorie", "Débutant", "Tuto", "EN"],
+    "tags": [
+      "Sound Design",
+      "Theorie",
+      "Débutant",
+      "Tuto",
+      "EN"
+    ],
     "description": "Abbleton Live in browser introduction to sound synthesis ! e.g. How to build synths. ",
     "url": "https://learningsynths.ableton.com/",
     "thumbnail": "https://ableton-production.imgix.net/help/learning-synths.jpg",
@@ -1382,7 +1867,13 @@
   {
     "title": "Learning Music",
     "id": "learning_music",
-    "tags": ["Sound Design", "Débutant", "Theorie", "Tuto", "EN"],
+    "tags": [
+      "Sound Design",
+      "Débutant",
+      "Theorie",
+      "Tuto",
+      "EN"
+    ],
     "description": "Abbleton Live in browser introduction to making electronic music ! ",
     "url": "https://learningmusic.ableton.com/",
     "thumbnail": "https://ableton-learningmusic.imgix.net/kick.jpg",
@@ -1393,7 +1884,12 @@
   {
     "title": "Poly",
     "id": "poly",
-    "tags": ["Graphisme", "3D", "Outil", "EN"],
+    "tags": [
+      "Graphisme",
+      "3D",
+      "Outil",
+      "EN"
+    ],
     "description": "Colaborative bank of 3D models by google",
     "url": "https://poly.google.com/",
     "thumbnail": "https://www.gstatic.com/vr/poly/logo_cropped.svg",
@@ -1404,7 +1900,13 @@
   {
     "title": "ZMorph academy",
     "id": "zmorph_academy",
-    "tags": ["3D", "Fabrication", "Débutant", "Tuto", "EN"],
+    "tags": [
+      "3D",
+      "Fabrication",
+      "Débutant",
+      "Tuto",
+      "EN"
+    ],
     "description": "Learn how to use the zmorph from the workshop with this online ressource. 3D printing, laser engraving or CNC milling.",
     "url": "https://academy.zmorph3d.com/",
     "thumbnail": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/iVG8mAaQtGiZ2c6bXghh",
@@ -1415,7 +1917,11 @@
   {
     "title": "AI Education by MIT",
     "id": "ai_education_by_mit",
-    "tags": ["Machine Learning", "Theorie", "EN"],
+    "tags": [
+      "Machine Learning",
+      "Theorie",
+      "EN"
+    ],
     "description": "Theorical ressources and desambiguation about machine learning and artificial intelligence",
     "url": "https://aieducation.mit.edu/",
     "thumbnail": "https://raise.mit.edu/images/2-about.png",
@@ -1426,7 +1932,13 @@
   {
     "title": "RunwayML",
     "id": "runwayml",
-    "tags": ["Machine Learning", "Débutant", "Intermédiaire", "Outil", "EN"],
+    "tags": [
+      "Machine Learning",
+      "Débutant",
+      "Intermédiaire",
+      "Outil",
+      "EN"
+    ],
     "description": "The swiss knife of machine learning. No code needed but it might help in some cases...",
     "url": "https://runwayml.com/",
     "thumbnail": "https://runway-static-assets.s3.amazonaws.com/app/magic-tools/AddGreen+B+Large.jpeg",
@@ -1512,7 +2024,12 @@
   {
     "title": "Tyler Hobbs essays about creative coding",
     "id": "solving_sol_essay",
-    "tags": ["Graphisme", "Creative Coding", "Theorie", "EN"],
+    "tags": [
+      "Graphisme",
+      "Creative Coding",
+      "Theorie",
+      "EN"
+    ],
     "description": "Tyler Hobbs is a generative artist producing images from code, and he writes essays about it !",
     "url": "https://tylerxhobbs.com/essays",
     "thumbnail": "http://solvingsol.com/_next/image?url=%2Fscreenshots%2F049-llimllib.png&w=1920&q=75",
@@ -1541,7 +2058,14 @@
   {
     "title": "Generative Artistry",
     "id": "generative_artistry",
-    "tags": ["Web", "Graphisme", "Débutant", "Creative Coding", "Tuto", "EN"],
+    "tags": [
+      "Web",
+      "Graphisme",
+      "Débutant",
+      "Creative Coding",
+      "Tuto",
+      "EN"
+    ],
     "description": "Learn how to code generative visual with pure javascript",
     "url": "https://generativeartistry.com/tutorials/",
     "thumbnail": "https://generativeartistry.com/img/06-circle-packing.png",
@@ -1588,7 +2112,13 @@
   {
     "title": "Arduino remote learning",
     "id": "arduino_remote_learning",
-    "tags": ["Arduino", "Interaction", "Débutant", "Tuto", "EN"],
+    "tags": [
+      "Arduino",
+      "Interaction",
+      "Débutant",
+      "Tuto",
+      "EN"
+    ],
     "description": "Arduino official learning center",
     "url": "https://www.arduino.cc/remotelearning",
     "thumbnail": "https://www.datocms-assets.com/32427/1603985459-image.png",
@@ -1655,7 +2185,13 @@
   {
     "title": "Creative coding essentials",
     "id": "creative_coding_essentials",
-    "tags": ["Processing", "Creative Coding", "Débutant", "Tuto", "EN"],
+    "tags": [
+      "Processing",
+      "Creative Coding",
+      "Débutant",
+      "Tuto",
+      "EN"
+    ],
     "description": "Creative coding courses by Tim Rodenbroeker",
     "url": "https://timrodenbroeker.de/courses/creative-coding-essentials/",
     "thumbnail": "https://timrodenbroeker.de/wp-content/uploads/2020/03/rotate1_alt2_square3.gif",
