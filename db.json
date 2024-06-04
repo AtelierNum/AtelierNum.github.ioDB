@@ -1,5 +1,22 @@
 [
   {
+    "title": "Publication web avec Github Pages",
+    "id": "publish_projects_with_github_pages",
+    "tags": [
+      "Code",
+      "Web",
+      "Publication",
+      "FR"
+    ],
+    "description": "Apprendre à publier des pages sur internet",
+    "url": "https://ateliernum.notion.site/Publier-vos-projets-sur-GitHub-Pages-9ef32a1363764dd5a174198a60ee5f65?pvs=4",
+    "thumbnail": "https://file.notion.so/f/f/0f8ab01b-d503-485d-9a00-a0fcf5895288/69d0e316-eafd-47dc-b111-0df6ac56d820/github.jpg?id=5fed07d9-daca-4200-a201-3b894d96774a&table=block&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&expirationTimestamp=1717596000000&signature=1vcHtcmMMPO5GpUMiiOgokssOciKQjWOExG1Q6J1pHg&downloadName=github.jpg",
+    "last_update": "04/06/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger"
+  },
+  {
     "title": "Réalité virtuelle - casque Quest",
     "id": "quest_getting_started",
     "tags": [
