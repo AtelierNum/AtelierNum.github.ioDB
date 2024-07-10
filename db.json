@@ -1,5 +1,24 @@
 [
   {
+    "title": "ML - generative AI - Usage de StabilityMatrix",
+    "id": "ML_generative_AI_stabilityMatrix",
+    "tags": [
+      "ML",
+      "IA",
+      "text-to-image",
+      "Débutant",
+      "FR", 
+      "EN"
+    ],
+    "description": "Cette ressource est une introduction à StabilityMatrix, pour générer des images avec stable diffusion gratuitement et sans restrictions",
+    "url": "https://ateliernum.notion.site/AI-Image-Generation-753569a6482a437e86b4cfddac2a317f?pvs=4",
+    "thumbnail": "https://file.notion.so/f/f/0f8ab01b-d503-485d-9a00-a0fcf5895288/329bd07d-aa04-4d38-be72-e98383492bc6/Untitled.png?id=b198f51e-1179-404c-9425-cecb4962106c&table=block&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&expirationTimestamp=1720706400000&signature=DvR8oqwb4_hH4VXCZUvMbs9Mh5QsOJ4vPWFUPEmhnjs&downloadName=Untitled.png",
+    "last_update": "10/07/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger"
+  },
+  {
     "title": "Publication web avec Github Pages",
     "id": "publish_projects_with_github_pages",
     "tags": [
@@ -144,12 +163,13 @@
       "IA",
       "text-to-image",
       "Débutant",
-      "FR"
+      "FR", 
+      "EN"
     ],
     "description": "Cette ressource est une petite introduction à la pratique des IAs génératives pour la production d’images.",
     "url": "https://ateliernum.notion.site/ML-generative-AI-Guide-de-prompt-754606b53e064fa9ad5ef4b5fa5785c3?pvs=4",
-    "thumbnail": "https://file.notion.so/f/s/8ed0339c-11b4-414f-af06-880d4342f077/create-an-illustration-of-a-prompt-engineer-or-a-prompt-artist-this-person-should-be-sitting-at-_(1).png?id=95b7e446-3dfd-48b6-aeb6-c4f4cd21ee5b&table=block&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&expirationTimestamp=1695384000000&signature=Pri7SlydvfhkBqUg0YXrkvGcR-wtJ30Lc0yt5xLSzYU&downloadName=create-an-illustration-of-a-prompt-engineer-or-a-prompt-artist-this-person-should-be-sitting-at-+%281%29.png",
-    "last_update": "21/09/23",
+    "thumbnail": "https://file.notion.so/f/f/0f8ab01b-d503-485d-9a00-a0fcf5895288/1af7d218-3cb4-4def-86d8-cf62f20ad9e8/cat_euler_15.webp?id=c9d8d80b-4974-4a9e-9fb3-d656c8f9e15f&table=block&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&expirationTimestamp=1720706400000&signature=mLlCRlJQfwPo4FOPhmEFXr1F7CHUTS9h1EaOm4-avFY&downloadName=cat_euler_15.webp",
+    "last_update": "10/07/24",
     "language": "fr",
     "type": "resource",
     "authors": "b2renger"
