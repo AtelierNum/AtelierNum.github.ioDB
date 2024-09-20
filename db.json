@@ -40,6 +40,25 @@
     "authors": "b2renger"
   },
   {
+    "title": "Micro projet réalité augmentée",
+    "id": "microprojetAR",
+    "tags": [
+      "AR",
+      "Réalité Augmentée",
+      "HTML",
+      "3D",
+      "Débutant",
+      "FR"
+    ],
+    "description": "Ressource pour le micro projet atelier numérique de première année autour de la réalité augmentée",
+    "url": "https://github.com/b2renger/microprojetar/",
+    "thumbnail": "https://raw.githubusercontent.com/b2renger/microprojetar/refs/heads/main/ressources/markup_1000019121.png",
+    "last_update": "20/09/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger"
+  },
+  {
     "title": "Publication web avec Github Pages",
     "id": "publish_projects_with_github_pages",
     "tags": [
