@@ -59,6 +59,25 @@
     "authors": "b2renger"
   },
   {
+    "title": "Rotoscoping in Photoshop",
+    "id": "rotoscoping",
+    "tags": [
+      "Digital Painting",
+      "Rotoscoping",
+      "Photoshop",
+      "Débutant",
+      "FR",
+      "EN"
+    ],
+    "description": "Tuto on rotoscoping with photoshop",
+    "url": "https://ateliernum.notion.site/Rotoscoping-in-photoshop-128c8d87b591803a8801d419ae6956e3",
+    "thumbnail": "https://file.notion.so/f/f/0f8ab01b-d503-485d-9a00-a0fcf5895288/62975c47-a3bd-4c9b-ae18-53a239dea512/image_processing20191021-3579-1ruf2cj.gif?table=block&id=128c8d87-b591-803a-8801-d419ae6956e3&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&expirationTimestamp=1729785600000&signature=jZFyxC9sWh3Iz-ucB-PE93Xd0OkymO71Gu6aCwNPhWU",
+    "last_update": "23/10/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger et Camille Lapellerie"
+  },
+  {
     "title": "Publication web avec Github Pages",
     "id": "publish_projects_with_github_pages",
     "tags": [
