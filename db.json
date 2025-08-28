@@ -1,11 +1,36 @@
-[
+[ 
   {
-    "title": "ML - generative AI - Usage de StabilityMatrix",
-    "id": "ML_generative_AI_stabilityMatrix",
+    "title": "Boite à outils IA",
+    "id": "boite_a_outils_IA",
+    "tags": [
+      "ML",
+      "AI",
+      "text",
+      "llm"
+      "image",
+      "Débutant",
+      "FR", 
+      "EN"
+    ],
+    "description": "Cette ressource est une d'outils pertinents IA et autres",
+    "url": "https://ateliernum.notion.site/Bo-te-a-outils-IA-mais-pas-que-143c8d87b5918001a793d1e11c3a80ab",
+    "thumbnail": "https://ateliernum.notion.site/image/attachment%3Ad0dc0e9a-e882-42af-a3d2-3b3ba8cd8b49%3Au6641625821_Isometric_illustration_of_an_AI_development_kit.__0cbe2b37-29de-4d80-b22c-bdbdc62751f6_3.png?table=block&id=25dc8d87-b591-80c8-9bf9-fbc3115e9685&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&width=1420&userId=&cache=v2",
+    "last_update": "10/08/25",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger"
+  },
+  {
+    "title": "ML - generative AI - Generation de medias",
+    "id": "ML_generative_AI_Generation_de_medias",
     "tags": [
       "BootcampAI",
       "ML",
       "AI",
+      "text",
+      "image",
+      "video", 
+      "3D",
       "text-to-image",
       "Débutant",
       "FR", 
@@ -59,6 +84,25 @@
     "authors": "b2renger"
   },
   {
+    "title": "RunwayML",
+    "id": "runwayml",
+    "tags": [
+      "video",
+      "ML",
+      "AI",
+      "Débutant",
+      "FR", 
+      "EN"
+    ],
+    "description": "Une liste de ressources pour apprendre à prendre en main RunwayML, un outil de génération de vidéo par IA",
+    "url": "https://ateliernum.notion.site/RunwayML-25bc8d87b59180708229e06d36a389fa?pvs=74",
+    "thumbnail": "https://ateliernum.notion.site/image/attachment%3Afd97710a-5c8f-4cf7-9e0e-b4eee33d79a8%3AUntitled-1.jpg?table=block&id=25bc8d87-b591-8070-8229-e06d36a389fa&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&width=2000&userId=&cache=v2",
+    "last_update": "28/08/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger"
+  },
+  {
     "title": "Rotoscoping in Photoshop",
     "id": "rotoscoping",
     "tags": [
@@ -71,7 +115,7 @@
     ],
     "description": "Tuto on rotoscoping with photoshop",
     "url": "https://ateliernum.notion.site/Rotoscoping-in-photoshop-128c8d87b591803a8801d419ae6956e3",
-    "thumbnail": "https://file.notion.so/f/f/0f8ab01b-d503-485d-9a00-a0fcf5895288/62975c47-a3bd-4c9b-ae18-53a239dea512/image_processing20191021-3579-1ruf2cj.gif?table=block&id=128c8d87-b591-803a-8801-d419ae6956e3&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&expirationTimestamp=1732701600000&signature=OmOoFk9FPeN-0QsajxHD_3YyrjIs7rppt5Ub9uZu-Qg",
+    "thumbnail": "https://ateliernum.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F0f8ab01b-d503-485d-9a00-a0fcf5895288%2F1a62c8e4-5348-4be9-a7c6-bafaf8fffb27%2Fimage.png?table=block&id=14ac8d87-b591-80bf-b3bc-c4862c6df4dc&spaceId=0f8ab01b-d503-485d-9a00-a0fcf5895288&width=800&userId=&cache=v2",
     "last_update": "23/10/24",
     "language": "fr",
     "type": "resource",
