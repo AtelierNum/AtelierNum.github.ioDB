@@ -84,6 +84,25 @@
     "authors": "b2renger"
   },
   {
+    "title": "Coder avec de l'IA ('Vibe coding')",
+    "id": "vibecoding_ressources",
+    "tags": [
+      "Code",
+      "ML",
+      "AI",
+      "Débutant",
+      "FR", 
+      "EN"
+    ],
+    "description": "Quelques conseils et outils pour coder avec de l'IA.",
+    "url": "https://ateliernum.notion.site/Vibecoding-22bc8d87b59180379bf2f29885a4ee78",
+    "thumbnail": "https://img.notionusercontent.com/s3/prod-files-secure%2F0f8ab01b-d503-485d-9a00-a0fcf5895288%2Fd53ee06c-1666-4afa-b88f-d4537ea5db67%2Fu6641625821_Abstract_graphic_illustration_of_the_vibe_coding__2dc5c308-3938-4da0-b517-4a0ea1426d97_3.png/size/w=1420?exp=1756810994&sig=31mH22QWEnQ0DIVflQ3x9kDADT_79xxZ2LI6eSmODSM&id=261c8d87-b591-80ec-9dde-f60c32050391&table=block",
+    "last_update": "01/09/24",
+    "language": "fr",
+    "type": "resource",
+    "authors": "b2renger"
+  },
+  {
     "title": "RunwayML",
     "id": "runwayml_ressources",
     "tags": [
