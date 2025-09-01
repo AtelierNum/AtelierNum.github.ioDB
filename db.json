@@ -1,4 +1,4 @@
-[ 
+[
   {
     "title": "Boite à outils IA",
     "id": "boite_a_outils_IA",
@@ -9,7 +9,7 @@
       "llm",
       "image",
       "Débutant",
-      "FR", 
+      "FR",
       "EN"
     ],
     "description": "Cette ressource est une d'outils pertinents IA et autres",
@@ -29,11 +29,11 @@
       "AI",
       "text",
       "image",
-      "video", 
+      "video",
       "3D",
       "text-to-image",
       "Débutant",
-      "FR", 
+      "FR",
       "EN"
     ],
     "description": "Cette ressource est une introduction à StabilityMatrix un hub pour la génération d'images avec AI - stable diffusion - gratuitement et sans restrictions",
@@ -53,7 +53,7 @@
       "AI",
       "text-to-image",
       "Débutant",
-      "FR", 
+      "FR",
       "EN"
     ],
     "description": "Cette ressource est une petite introduction à la pratique des AI génératives, du prompt selon différentes modalités.",
@@ -91,7 +91,7 @@
       "ML",
       "AI",
       "Débutant",
-      "FR", 
+      "FR",
       "EN"
     ],
     "description": "Quelques conseils et outils pour coder avec de l'IA.",
@@ -110,7 +110,7 @@
       "ML",
       "AI",
       "Débutant",
-      "FR", 
+      "FR",
       "EN"
     ],
     "description": "Une liste de ressources pour apprendre à prendre en main RunwayML, un outil de génération de vidéo par IA",
