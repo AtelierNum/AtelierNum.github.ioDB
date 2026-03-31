@@ -282,6 +282,7 @@
     "id": "SalleFondVert_Controller",
     "tags": [
       "chataigne",
+      "Lumière",
       "Débutant",
       "FR"
     ],
@@ -732,7 +733,7 @@
     "authors": "Lucie Mrc"
   },
   {
-    "title": "Video Mapping et Madmapper",
+    "title": "Introduction à Madmapper",
     "id": "Madmapper_2spi",
     "tags": [
       "Mapping",
@@ -743,7 +744,41 @@
     "description": "Une introduction à madmapper pour réaliser du video mapping",
     "url": "https://github.com/LucieMrc/Madmapper_2spi",
     "thumbnail": "https://github.com/LucieMrc/Madmapper_2spi/raw/main/images/screen1.png",
-    "last_update": "22/12/21",
+    "last_update": "28/03/26",
+    "language": "fr",
+    "type": "course",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "Madmapper introduction",
+    "id": "Madmapper_intro_EN",
+    "tags": [
+      "Mapping",
+      "Madmapper",
+      "Débutant",
+      "EN"
+    ],
+    "description": "An introduction to video mapping in Madmapper",
+    "url": "https://github.com/LucieMrc/Madmapper_intro_EN",
+    "thumbnail": "https://github.com/LucieMrc/Madmapper_intro_EN/main/images/projection.png",
+    "last_update": "28/03/26",
+    "language": "en",
+    "type": "course",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "Introduction DMX",
+    "id": "DMX-Lights",
+    "tags": [
+      "DMX",
+      "Lumière",
+      "Débutant",
+      "FR"
+    ],
+    "description": "Introduction au controle lumière en DMX",
+    "url": "https://github.com/LucieMrc/DMX-Lights",
+    "thumbnail": "https://github.com/LucieMrc/DMX-Lights/main/images/XLR_5b.png",
+    "last_update": "28/02/26",
     "language": "fr",
     "type": "course",
     "authors": "Lucie Mrc"
@@ -780,6 +815,58 @@
     "url": "https://github.com/LucieMrc/TD_Arduino_EN",
     "thumbnail": "https://github.com/LucieMrc/TD_Arduino_EN/raw/main/images/screen4.png",
     "last_update": "28/03/24",
+    "language": "en",
+    "type": "course",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "Métal liquide en 3D",
+    "id": "Liquid_Metal_Aesthetic",
+    "tags": [
+      "3D",
+      "Blender",
+      "TouchDesigner",
+      "Débutant",
+      "FR"
+    ],
+    "description": "Créer une esthétique métal liquide avec Blender et Touchdesigner",
+    "url": "https://github.com/LucieMrc/Liquid_Metal_Aesthetic",
+    "thumbnail": "https://github.com/LucieMrc/Liquid_Metal_Aesthetic/main/images/avant.png",
+    "last_update": "28/02/25",
+    "language": "fr",
+    "type": "course",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "Midi USB avec Arduino",
+    "id": "Arduino_MIDI_USB_FR",
+    "tags": [
+      "Arduino",
+      "MIDI",
+      "Débutant",
+      "FR"
+    ],
+    "description": "Communiquer en MIDI en utilisant une carte Arduino comme controleur MIDI.",
+    "url": "https://github.com/LucieMrc/Arduino_MIDI_USB_FR",
+    "thumbnail": "https://github.com/LucieMrc/Arduino_MIDI_USB_FR/main/images/screen1.png",
+    "last_update": "28/02/24",
+    "language": "fr",
+    "type": "course",
+    "authors": "Lucie Mrc"
+  },
+  {
+    "title": "Midi USB with Arduino",
+    "id": "Arduino_MIDI_USB_EN",
+    "tags": [
+      "Arduino",
+      "MIDI",
+      "Débutant",
+      "EN"
+    ],
+    "description": "Communicate via MIDI using an Arduino board as a MIDI controller.",
+    "url": "https://github.com/LucieMrc/Arduino_MIDI_USB_EN",
+    "thumbnail": "https://github.com/LucieMrc/Arduino_MIDI_USB_EN/main/images/screen1.png",
+    "last_update": "28/02/24",
     "language": "en",
     "type": "course",
     "authors": "Lucie Mrc"
