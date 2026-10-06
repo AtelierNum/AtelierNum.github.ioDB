@@ -1,5 +1,21 @@
 [
   {
+    "title": "BLED : des LEDs en BLE",
+    "id": "BLED",
+    "tags": [
+      "BLE",
+      "LED",
+      "neopixel"
+    ],
+    "description": "Permet de simplement piloter, depuis une page web, des neopixel liées à un ESP32.",
+    "url": "https://github.com/AtelierNum/BLED",
+    "thumbnail": "https://github.com/AtelierNum/BLED/blob/master/og_thumbnail.jpg?raw=true",
+    "last_update": "06/10/26",
+    "language": "fr",
+    "type": "resource",
+    "authors": "Valentin Dupas"
+  },
+  {
     "title": "Boite à outils IA",
     "id": "boite_a_outils_IA",
     "tags": [
