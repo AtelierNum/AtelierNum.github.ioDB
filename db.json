@@ -2141,22 +2141,6 @@
     "type": "resource"
   },
   {
-    "title": "Poly",
-    "id": "poly",
-    "tags": [
-      "Graphisme",
-      "3D",
-      "Outil",
-      "EN"
-    ],
-    "description": "Colaborative bank of 3D models by google",
-    "url": "https://poly.google.com/",
-    "thumbnail": "https://www.gstatic.com/vr/poly/logo_cropped.svg",
-    "last_update": "20/04/20",
-    "language": "en",
-    "type": "resource"
-  },
-  {
     "title": "ZMorph academy",
     "id": "zmorph_academy",
     "tags": [
