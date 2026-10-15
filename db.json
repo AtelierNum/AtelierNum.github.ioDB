@@ -1,5 +1,70 @@
 [
   {
+    "title": "Gaussian Splatting, Récits urbains",
+    "id": "splatting_manuel-v1",
+    "tags": [
+      "gaussian",
+      "splatting",
+      "photogrammetry"
+    ],
+    "description": "Comprendre ce qu'est un splat, capturer un fragment de ville au téléphone, le nettoyer, et le publier avec un point de vue qui raconte quelque chose.",
+    "url": "https://urbandronedesign.github.io/gaussian-splatting/splatting_manuel-v1.html",
+    "thumbnail": "",
+    "last_update": "15/10/26",
+    "language": "fr",
+    "type": "resource",
+    "authors": "Zaki Jawhari"
+  },
+  {
+    "title": "Gausian Splatting: Une Presentation",
+    "id": "gaussian-splatting-presentation",
+    "tags": [
+      "gaussian",
+      "splatting",
+      "3D"
+    ],
+    "description": "",
+    "url": "https://urbandronedesign.github.io/gaussian-splatting/presentation.html",
+    "thumbnail": "",
+    "last_update": "15/10/26",
+    "language": "fr",
+    "type": "resource",
+    "authors": "Zaki Jawhari"
+  },
+  {
+    "title": "Generative Narratives",
+    "id": "recits_generatifs_manuel-v1",
+    "tags": [
+      "AI",
+      "genAI",
+      "pipeline"
+    ],
+    "description": "Producing a short film with generative AI, from writing to the final mix. The technical skills of a complete pipeline — on a real place you document, or on a world you invent from nothing.",
+    "url": "https://urbandronedesign.github.io/AI_GEN_NARRATIVES/recits_generatifs_manuel-v1.html",
+    "thumbnail": "",
+    "last_update": "15/10/26",
+    "language": "en",
+    "type": "resource",
+    "authors": "Zaki Jawhari"
+  },
+  {
+    "title": "Twinmotion 2026 : The Complete Production Manual",
+    "id": "twinmotion_2026_manual-v6",
+    "tags": [
+      "twinmotion",
+      "sketchup",
+      "rhino3d",
+      "lumen"
+    ],
+    "description": "SketchUp & Rhino 3D to Twinmotion 2026 — modelling hygiene, static export, Lumen and Path Tracer lighting, and cinematic delivery.",
+    "url": "https://urbandronedesign.github.io/3DVIZ/twinmotion_2026_manual-v6.html",
+    "thumbnail": "",
+    "last_update": "15/10/26",
+    "language": "en",
+    "type": "resource",
+    "authors": "Zaki Jawhari"
+  },
+  {
     "title": "BLED : des LEDs en BLE",
     "id": "BLED",
     "tags": [
